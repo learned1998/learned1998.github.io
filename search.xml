@@ -45,9 +45,9 @@
       
         <tags>
             
-            <tag> 测试 </tag>
-            
             <tag> 外挂标签 </tag>
+            
+            <tag> 测试 </tag>
             
         </tags>
       
@@ -72,9 +72,9 @@
       
         <tags>
             
-            <tag> 外挂标签 </tag>
-            
             <tag> Markdown </tag>
+            
+            <tag> 外挂标签 </tag>
             
         </tags>
       
