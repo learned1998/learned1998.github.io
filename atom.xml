@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2025-02-07T11:50:43.492Z</updated>
+  <updated>2025-02-07T13:34:32.891Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Cursor教学视频05 需求洞察&amp;产品创新</title>
+    <link href="https://www.fomal.cc/posts/614e5e27.html"/>
+    <id>https://www.fomal.cc/posts/614e5e27.html</id>
+    <published>2025-02-07T13:33:32.000Z</published>
+    <updated>2025-02-07T13:34:32.891Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://wx.zsxq.com/tags/%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/15512811514152">#教学视频 </a><a href="https://wx.zsxq.com/tags/%E8%BF%90%E8%90%A5&amp;%E5%95%86%E4%B8%9A%E5%8C%96/28848512285581">#运营&amp;商业化 </a>这是一期比较特别的星球专属视频，不是关于Cursor或任何AI编程产品的使用。而是用我的经验告诉你，在我们可以通过AI编程快速实现产品MVP版本的情况下，我们应该如何去实现「需求洞察和产品创新」，而这也正是你去实现产品商业化（赚钱）的前提：那就是做出真正的其他人有需要的产品。 内容节选自我之前付费给美团内部技术团队所做的分享，是费了很多心力准备过的，希望对大家有所启发。 视频时间戳总结: 0:00-0:14 开场介绍,准备总结需求洞察和创新方式 0:14-0:32 第一点:用户说的不是需求,引用亨利福特的名言 0:32-1:11 深入分析用户真实需求的重要性 1:11-2:22 如何发现真实需求:关注用户行为而非言论 2:22-3:32 用社会心理学实验说明用户态度与行为的差异 3:32-4:42 案例分析:环球影城拍照指南PPT的需求洞察 4:42-6:03 产品化思路:如何将用户需求转化为更好的解决方案 6:03-8:21 MVP验证方法:利用社交媒体快速验证需求 8:21-10:19 新的需求验证方式:通过评论互动验证 10:19-13:21 成功案例分享:更勤奋更聪明的GPT4项目经验 主要观点: 1. 用户表达与真实需求的差异 - 用户直接表达的不一定是真实需求 - 需要深入了解用户行为背后的动机 - 通过观察和分析发现真实需求 2. 需求发现方法 - 关注用户实际行为而非言论 - 观察用户愿意为什么付费 - 在真实用户社区(如小红书、Reddit)发现需求 - 寻找现有解决方案中的痛点和改进空间 3. 快速验证方法 - 利用社交媒体平台快速验证需求 - 通过发布内容获取用户反馈 - 使用评论互动方式测试需求 - 结合AI技术快速开发MVP版本 4. 产品开发建议 - 选择简单可行的解决方案 - 关注用户实际愿意付费的场景 - 通过迭代优化提升用户体验 - 找准目标用户群体进行精准营销 5. 成功案例分享 - 环球影城拍照指南案例分析 - GPTs定制版本的开发经验 - 验证了需求发现和快速验证的方法论 - 强调解决实际问题的重要性</p><p>视频链接https://xiao666.sbs/PicGo/cursor教程5.mp4</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://wx.zsxq.com/tags/%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/15512811514152&quot;&gt;#教学视频 &lt;/a&gt;&lt;a href=&quot;https://wx.zsxq.com/tags/%E8%BF</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AI编程" scheme="https://www.fomal.cc/tags/AI%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Cursor的官方指引文档</title>
     <link href="https://www.fomal.cc/posts/b34e7cd7.html"/>
     <id>https://www.fomal.cc/posts/b34e7cd7.html</id>
     <published>2025-02-07T11:49:10.000Z</published>
-    <updated>2025-02-07T11:50:43.492Z</updated>
+    <updated>2025-02-07T11:52:01.598Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://wx.zsxq.com/tags/Cursor%E5%85%A5%E9%97%A8/88845455581582">#Cursor入门 </a>我估计很多人学了这么久Cursor，都没完整看过Cursor的官方指引文档。该⽂档写得相当清晰简洁，是新⼿⼊门开始学习Cursor，了解Cursor是什么，有哪些功能的最佳选择。 很多⼈甚至不知道这个⽂档的存在，或者因为语⾔的壁垒看这份⽂档⾮常费劲。即使有翻译插件的帮助，因为涉及到的技术名词和格式很难处理，插件翻译效果不佳，所以我特意为大家翻译了这份Cursor的官⽅指引⽂档。</p><p>中文版文档链接：<a href="https://xiao666.sbs/PicGo/Cursor%E5%AE%98%E6%96%B9%E6%8C%87%E5%BC%95%E6%96%87%E6%A1%A3%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf">https://xiao666.sbs/PicGo/Cursor官方指引文档（中文版）.pdf</a></p><p>甚至，结合这份文档，我也为大家做了个星球专属的GPTs——Cursor101，7*24小时解答你关于Cursor的疑问：[<a href="https://chatgpt.com/g/g-EhEcLTH48-cursor101/">https://chatgpt.com/g/g-EhEcLTH48-cursor101/</a>](<a href="https://chatgpt.com/g/g-EhEcLTH48-cursor101/">https://chatgpt.com/g/g-EhEcLTH48-cursor101/</a>&quot; \t “_blank” \o &quot;https%3A%2F%<a href="http://2Fchatgpt.com">2Fchatgpt.com</a>%2Fg%2Fg-EhEcLTH48-cursor101%2F)</p>]]></content>
     
@@ -45,7 +69,7 @@
     <link href="https://www.fomal.cc/posts/b7a2ca5f.html"/>
     <id>https://www.fomal.cc/posts/b7a2ca5f.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.202Z</updated>
+    <updated>2025-02-07T11:52:01.584Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://wx.zsxq.com/tags/Cursor%E5%85%A5%E9%97%A8/88845455581582">#Cursor入门 </a>去年做了很多Prompt Engineering的分享，今年在做AI编程实践的分享下，默认大多数人有了此前的AI提示词实践基础。但是没想到完全不是这么一回事，许多人在使用AI编程时对于大模型的特点，对于如何向大模型表达清楚背景和需求是缺乏认知的。 下面你在用AI编程时，可以参考的10个提示词技巧： 1. 明确具体的需求 要让 AI 在编程上发挥高效作用，首要是确保提示词内容具体且明确。这种明确性可以包括代码的语言、使用的库、功能要求和输入输出等。例如，不要只是要求“写一个排序算法”，而要具体说明“使用 Python 实现一个快速排序算法，并对输入的整数列表进行降序排列”。 示例 提示词：“用 Python 编写一个快速排序算法，将输入的整数列表从大到小排序，并返回排序后的列表。” 在这样的明确表达下，AI 会根据输入提供特定代码，避免产生不符合需求的代码段。 2. 分步式提示词构造 分步提示词对于复杂的代码生成非常有效。通常，复杂代码生成可以分解为以下几个步骤：明确功能、解释实现逻辑、生成代码、逐步测试。这样一来，每一步的提示词都更聚焦，减少模型误解的风险。 示例 第一步提示词：“设计一个 Python 函数来读取一个文件，并将其中每一行的内容反转。” 第二步提示词：“写出实现逻辑步骤。” 第三步提示词：“根据上述逻辑编写完整代码。” 第四步提示词：“添加注释并解释每行代码的作用。” 通过分步引导，模型可以逐步实现复杂功能，且代码的可读性和可靠性也会得到提高。 3. 使用框架提示 当 AI 生成代码涉及到常见编程框架（如 Flask、Django、TensorFlow 等）时，可以在提示词中明确提及框架的名称和结构。这一策略尤其适用于需要生成项目模板或特定框架下的标准代码的场景。 示例 提示词：“使用 Flask 框架创建一个简单的 REST API，包含 /get_data 端点，接受 GET 请求并返回 JSON 格式的示例数据。” 通过加入框架名称和需求，AI 能理解代码的特定环境，并生成符合框架规范的代码。 4. 给出示例和边界条件 示例和边界条件可以帮助 AI 更好地理解需求。给出输入输出示例以及边界条件，能让生成的代码更具鲁棒性和针对性，尤其是在处理不同输入场景时。 示例 提示词：“编写一个 Python 函数 divide，接收两个整数作为参数，返回它们的商。如果第二个数为 0，返回 ‘Undefined’。示例：输入 (10, 2) 应返回 5；输入 (10, 0) 应返回 ‘Undefined’。” 通过明确输入输出示例和特定的边界条件，AI 可以编写出更稳定的代码并考虑到特殊情况。 5. 要求输出注释丰富的代码 生成代码后，理解代码的意图和流程至关重要。此时可以在提示词中要求模型生成含有详细注释的代码，尤其在一些复杂的逻辑实现上，有注释的代码更有助于理解和维护。 示例 提示词：“用 Python 编写一个二分查找算法，对整数列表进行查找，找到返回索引，找不到返回 -1。请在每行代码旁边加上详细注释，解释实现逻辑。” 通过提示注释要求，AI 会在生成代码的同时添加解释，增强代码的可读性和用户理解。 6. 迭代优化：根据生成结果调整提示词 生成的代码未必总是完美，通常需要根据结果逐步优化提示词。可以通过以下方式迭代提示词：添加功能要求、明确限制条件、指定特定方法或库、请求代码优化等。每次调整都能让 AI 的输出更贴近理想状态。 示例 初始提示词：“写一个 Python 函数来读取 CSV 文件并返回数据列表。” 迭代后的提示词：“写一个 Python 函数来读取 CSV 文件，使用 csv.reader 解析数据，并将每一行数据存入字典列表，字典的键为 CSV 的列名。” 经过迭代后的提示词，能使生成代码更符合具体需求。 7. 明确代码风格和规范 代码的风格和规范在团队合作中尤其重要。如果项目有特定的代码规范，比如命名风格、函数注释格式等，可以在提示词中说明，让生成的代码与项目规范保持一致。 示例 提示词：“使用 PEP8 代码规范，编写一个 Python 函数 count_words，接收字符串参数并返回单词数，并在函数顶部添加标准的 docstring。” 通过指定风格，AI 会遵循规范生成符合标准的代码，提高代码质量和一致性。 8. 请求分解问题和逻辑分析 在一些复杂问题上，可以让 AI 先分解逻辑步骤，再生成代码。这样不仅能帮助用户理解复杂逻辑，还能在逻辑清晰的基础上生成更易于理解和调试的代码。 示例 第一步提示词：“设计一个算法来找出给定列表中两个数的和为目标值的所有可能组合。” 第二步提示词：“根据上述设计的逻辑编写代码。” 逻辑分析使代码生成过程有序清晰，避免混乱。 9. 调整语言和描述方式 不同的描述方式会影响 AI 对问题的理解。对于特定需求，可以尝试采用技术语言或非技术语言，甚至加入例子说明，帮助 AI 准确识别需求。 技术语言示例 提示词：“使用递归实现斐波那契数列，并加上时间复杂度分析。” 非技术语言示例 提示词：“请写一个 Python 函数来生成斐波那契数列中的第 N 项，不用循环，只用函数自身的调用来实现。” 根据不同的描述方式，AI 能够从不同角度理解需求，从而提供不同风格的实现。 10. 结合领域知识的专用提示词 某些代码需求可能涉及特定领域（如金融、医学、机器学习），在提示词中结合领域术语和规范，可以帮助 AI 更准确地理解上下文并生成具有行业特性的代码。 示例 提示词：“在 Python 中实现一个用于股票价格数据的均值回归模型，并返回预测的价格。” 通过加入行业知识，AI 会识别到该需求可能涉及特定的统计或机器学习方法，从而生成更符合应用场景的代码。 在用AI编程时，这些提示词设计对你后面得到的效果将会有相当大的影响。之一语言的精准性、需求的明确性。以及，永远别想一招制胜，AI写完代码之后还有大量的bug等着你，慢慢来，在这个过程中学会迭代。</p>]]></content>
     
@@ -69,7 +93,7 @@
     <link href="https://www.fomal.cc/posts/46a97321.html"/>
     <id>https://www.fomal.cc/posts/46a97321.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.208Z</updated>
+    <updated>2025-02-07T11:52:01.586Z</updated>
     
     <content type="html"><![CDATA[<p>Ai编程最重要的是什么？ 编程思维！编程思维！！编程思维！！！ 大家好我是安然，AppStore排行榜第八减法人生App开发者，让有成绩的人带你玩转Ai编程 自从 Cursor 问世以来，有些人利用它开发出了许多优秀的产品，而另一些人则选择将其作为兴趣尝试，也有人因为投入过多却未见成效而感到迷茫。为什么同样的工具、同样的工作流，有的人能创造出高价值的产品，而有的人却止步不前呢？ 其实，这个问题我思考了很久，尤其是对于我们这些非专业程序员来说，这背后隐藏的关键并不是工具本身，而是编程思维。在与伟豪学长、一些专业程序员，以及我的小白学员们深度沟通后，我逐渐意识到：很多人对代码结构完全没有概念，就像从未见过猪跑的人，怎么可能一上来就学会杀猪呢？ 编程思维的缺乏，往往是导致效率低下和成果不理想的根本原因。只有先理解代码的逻辑与结构，培养良好的思维方式，我们才能真正利用工具的优势，将创意转化为有价值的产品。 因此，我花了大量时间，写下了几万字的内容，将传统专业程序员的编程思维进行拆解，并结合使用 Cursor 编程的实际场景，将这些思维方式转化为通俗易懂的大白话形式。整篇内容通过定义、项目实战和总结的结构展开，力求让每个人都能轻松理解。我已将完整内容整理并上传到了飞书链接<a href="https://jcnycuv9wzw0.feishu.cn/wiki/R5xZwlEwyipRa5kzRjkcGT3JnFd?from=from_copylink">https://jcnycuv9wzw0.feishu.cn/wiki/R5xZwlEwyipRa5...</a>，供大家参考和学习。</p>]]></content>
     
@@ -93,7 +117,7 @@
     <link href="https://www.fomal.cc/posts/efde9c90.html"/>
     <id>https://www.fomal.cc/posts/efde9c90.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.213Z</updated>
+    <updated>2025-02-07T11:52:01.587Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://wx.zsxq.com/tags/%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/15512811514152">#教学视频 </a>作为一个很不爱做评测的博主，但我已经过两期关于Cursor和Windsurf的对比，因为这两个产品属于现在AI编程领域两个绝对的领头羊，并且相互之间又还有一些明显的差异存在，也有很多圈友在同时使用这两个产品，所以我认为做评测、对比，让大家理解这两个产品之间的差异是有相当的价值的。 这期视频的核心文字稿观点在上个月的时候发过，见：<a href="https://articles.zsxq.com/id_t0cr1lf8xlqb.html">一文读懂Cursor与WindSurf的代码索引逻辑</a> 因为很重要，所以我特意又做成了视频讲解，希望给大家带去更深入的理解。 视频重点时间戳： [00:00:00] 开场介绍 - 为什么要做这期对比评测 [00:09:36] 核心结论1 - 对新手而言,Windsurf体验优于Cursor,因为其agent模式在执行初级任务时表现更好 [00:10:20] 核心结论2 - agent模式的主要问题:不会完整读取代码文件,导致复杂项目容易出错 [00:11:21] 核心结论3 - 测试发现在@单个代码文件时,Cursor会尽量完整读取,而Windsurf仍保持有限读取 [00:12:20] 核心结论4 - 对于熟悉项目结构的用户,在Cursor中@特定文件的效果远好于@整个代码库 [00:13:05] 实用建议 视频及相关PPT材料观看地址：<a href="https://mcnuw68f9l2p.feishu.cn/docx/DEoXdwmPkoYd1JxjevocubJGnQg?from=from_copylink">https://mcnuw68f9l2p.feishu.cn/docx/DEoXdwmPkoYd1J...</a></p>]]></content>
     
@@ -117,7 +141,7 @@
     <link href="https://www.fomal.cc/posts/2cf6a9a2.html"/>
     <id>https://www.fomal.cc/posts/2cf6a9a2.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.217Z</updated>
+    <updated>2025-02-07T11:52:01.588Z</updated>
     
     <content type="html"><![CDATA[<p>今天刚发了个视频，去用一个实际的项目迭代任务去对比了常规Cursor Composer模式和Windsurf、Cursor Agent模式的差异。 <a href="https://www.bilibili.com/video/BV1TxqXY4Egj/">Cursor、WindSurf大乱斗，AI编程哪家强？_哔哩哔哩_bilibili</a> 主要结论： 1、Agent模式更适合省心，更适合新手上路，以及在比较简单需求的情况下使用。在Agent模式下，Cursor或Windsurf一般都会遵循以下步骤行事： 1）先思考理解你要完成的任务是什么； 2）查找项目代码，发现其中和你需求相关的代码； 3）查看代码文件中和你需求相关的部分； 4）完成代码修改； 5）完成修改后再做一遍反思确认是否有问题； 6）有问题的话再调整一遍问题。 2、目前Cursor和Windsurf调教的Agent处理问题节奏稍微有些不同，但是做得都还可以，很难直接下判断谁更好，两者都可以使用和尝试，而且估计他们都会继续做很多迭代； 3、在Cursor非Agent的模式下，作为工具使用者，我们的可控性会更高，但是他是系统一直觉思维，你给了任务就行动，如果你对项目缺少理解，不知道投喂什么文件作为上下文，不会通过提示词激发Cursor思考的话，会比较容易遇到问题。 在做视频的时候，我下的结论是Cursor相比Windsurf有三大优势： 1）在有对标的agent模式的情况下，Cursor还保留了更可控的常规composer模式，多一个选择是更好的； 2）Cursor可以直接丢链接让AI读取，但Windsurf还不行，这会在需要AI理解API文档等场景下有劣势； 3）Cursor有Rules for AI/.cursorrules这种系统级提示词的能力，能更好掌控AI的行事规则，这对深入的项目开发和调教很重要！ 👆但是第三条昨晚视频就可以划掉了，因为Windsurf更新了这个新功能，增加了Rules的能力，说明Windsurf官方和我还挺英雄所见略同的。</p>]]></content>
     
@@ -137,11 +161,35 @@
   </entry>
   
   <entry>
+    <title>Cursor十大使用技巧</title>
+    <link href="https://www.fomal.cc/posts/c38f6688.html"/>
+    <id>https://www.fomal.cc/posts/c38f6688.html</id>
+    <published>2025-02-07T11:39:29.000Z</published>
+    <updated>2025-02-07T11:52:01.598Z</updated>
+    
+    <content type="html"><![CDATA[<p>1、总是在一个空的文件夹中开启一个新项目，Cursor 默认开启的文件夹是项目根目录。 2、表述需求时，尽量明确但谨慎，Cursor 会完全按你的需求来。不必要的信息会增加实现难度（比如在电脑本地对文件进行操作，但提到&quot;上传&quot;的话，可能会增加复杂的后端开发内容），而过度的简化会给 Cursor 自由发挥的空间，容易失控。 3、让 Cursor 从项目一开始就写 <a href="http://README.md">README.md</a> 文档，记录清楚产品功能、实现技术栈等，并且让它在完成关键节点后及时更新。 4、让 Cursor 写代码时写清楚各个代码块的注释，帮助你自己学习和理解实现逻辑。 5、用 Git 做版本管理，在关键成功节点提交时写好说明内容，给自己复原的机会。 6、使用 Composer 开始一个项目，尽量 Save All，然后实时测试，而不是 Accept All，给自己处理问题的空间，确认新的更改没问题后再 Accept。 7、使用 Composer 和 Chat 功能时，尽量多 @codebase，否则 Cursor 常有幻觉，不知道项目内容是什么。 8、常用的文档链接可以加入 Docs 中，比如你习惯使用的 AI API 调用文档，方便在使用时随时 @。 9、善用 Settings 里的 Rules for AI，写在其中的提示词相当于 System Prompt，可以用来要求 Cursor 的回答节奏、风格。在其中表明清楚你的编程经验和偏好语言会对项目有很大帮助。 10、注册账户后，免费期限或免费次数用完时，可以删除账户再使用原邮箱登录，你又能获得一条 14 天 500 条 Claude 3.5 Sonnet 的使用权限。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1、总是在一个空的文件夹中开启一个新项目，Cursor 默认开启的文件夹是项目根目录。 2、表述需求时，尽量明确但谨慎，Cursor 会完全按你的需求来。不必要的信息会增加实现难度（比如在电脑本地对文件进行操作，但提到&amp;quot;上传&amp;quot;的话，可能会增加复杂的后端开</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AI编程" scheme="https://www.fomal.cc/tags/AI%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Cursor接入的大模型是否联网，是不是联网更好用？</title>
     <link href="https://www.fomal.cc/posts/77a9cb5c.html"/>
     <id>https://www.fomal.cc/posts/77a9cb5c.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.226Z</updated>
+    <updated>2025-02-07T11:52:01.589Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://wx.zsxq.com/tags/CursorFAQ/28845455528841">#CursorFAQ </a>Q：Cursor接入的大模型是否联网，是不是联网更好用？ A：我来简单解释下。 1、Cursor可以联网，你可以设置为一直联网，或者 @web 的方式联网 2、Cursor现在接入的模型，比如Claude 3.5 Sonnet，GPT-4o 本身不是直接联网的 3、联网的逻辑是Cursor自己建了一套web搜索的逻辑或者用大模型的function call实现的，你可以理解为步骤是1）你表达需求；2）cursor自己的小模型或者接的gpt把你的需求转化为联网查询的关键词；3）用RAG之类的方式从搜索结构中提取一部分信息作为你选择模型（比如GPT-4o、Claude 3.5 Sonnet）的提示词，让它获得对应的上下文。 4、联网并不等于“高级”，不等于“更好用”，网络垃圾太多了，信息量很有限，比如默认联网搜索的微软copilot用的是GPT-4o模型，但是效果表现很多时候都很差，因为被搜索到的互联网预料污染了。你只应该在模型缺乏对应知识的时候进行联网，比如你在做小程序，微信最近刚出了个新规则，这部分规则大模型没训练过，这时候适合联网。 5、相比直接用 @web 之类的方式让大模型找信息，最优方式是1）你自己找到对应的信息，把所有需要大模型知道的信息复制到聊天框中；2）你找到对应的网页，把网页直接给cursor读（但是像前面说的，会是RAG这种检索增强方式把部分网页内容放入上下文，所以实际不如你直接复制来得完整）。</p>]]></content>
     
@@ -165,7 +213,7 @@
     <link href="https://www.fomal.cc/posts/c03c8c9f.html"/>
     <id>https://www.fomal.cc/posts/c03c8c9f.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.229Z</updated>
+    <updated>2025-02-07T11:52:01.591Z</updated>
     
     <content type="html"><![CDATA[<p>#教学视频</p><p>视频观看地址：<a href="https://mcnuw68f9l2p.feishu.cn/wiki/YRkOw6Rn7ikvo8kefb0cv7Y3nyb">https://mcnuw68f9l2p.feishu.cn/wiki/YRkOw6Rn7ikvo8kefb0cv7Y3nyb</a></p><p><strong>视频简介：</strong></p><p>本视频是知识星球的第一期专属视频，主要介绍Cursor的基础设置和配置，适合新手入门观看。主要内容包括:</p><ol><li>Cursor的下载安装</li><li>中文插件的安装配置</li><li>Rules for AI的设置</li><li>Model和Features的配置</li><li>一个简单的图片压缩网站示例</li></ol><p><strong>时间戳:</strong></p><p>00:28 Cursor下载安装</p><p>00:58 Cursor界面介绍</p><p>01:40 中文插件安装配置</p><p>04:58 Account登录设置</p><p>05:34 Rules for AI设置</p><p>07:49 Model设置</p><p>08:37 Features设置</p><p>10:42 Beta功能设置</p><p>11:15 图片压缩网站示例</p><p>15:36 结束语</p><p>⚠️注：本视频为星球用户专享，请勿对外分享。</p>]]></content>
     
@@ -190,7 +238,7 @@
     <link href="https://www.fomal.cc/posts/45eac633.html"/>
     <id>https://www.fomal.cc/posts/45eac633.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.233Z</updated>
+    <updated>2025-02-07T11:52:01.592Z</updated>
     
     <content type="html"><![CDATA[<p>视频观看地址：<a href="https://mcnuw68f9l2p.feishu.cn/wiki/O3r8wPPfZiKczzkL2GHcpszanVh?from=from_copylink">https://mcnuw68f9l2p.feishu.cn/wiki/O3r8wPPfZiKczzkL2GHcpszanVh?from=from_copylink</a></p><p>本视频是星球第二期专属教学视频，主要介绍了Cursor编辑器的几种基本AI编辑功能:</p><ol><li>Tab自动补全功能 (01:33 - 02:30)</li><li>介绍了Tab键自动补全代码的基本用法</li><li>适合有编程经验的用户使用</li><li>Command+K/Ctrl+K编辑功能 (02:30 - 05:00)</li><li>可以对选定区域进行AI编辑</li><li>支持在终端中使用,帮助生成命令行代码</li><li>特别适合Git版本控制相关操作</li><li>Chat功能 (06:06 - 08:53)</li><li>可与整个项目和特定代码文件进行交互</li><li>提供代码解释和修改建议</li><li>修改更可控,需手动确认应用</li><li>Composer功能 (08:53 - 10:00)</li><li>直接进行代码修改</li><li>可以通过@指定修改范围</li><li>建议配合测试使用</li><li>其他高级功能预告 (11:21 - 12:00)</li><li>Agent模式vs Normal模式</li><li>不同@用法的使用场景</li><li>将在后续视频详细介绍</li></ol>]]></content>
     
@@ -214,7 +262,7 @@
     <link href="https://www.fomal.cc/posts/7e419d20.html"/>
     <id>https://www.fomal.cc/posts/7e419d20.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.237Z</updated>
+    <updated>2025-02-07T11:52:01.593Z</updated>
     
     <content type="html"><![CDATA[<p>#教学视频</p><p>视频链接：<a href="https://mcnuw68f9l2p.feishu.cn/wiki/SsjOwgDlai9qjekJNVQcmKmsnag?from=from_copylink">https://mcnuw68f9l2p.feishu.cn/wiki/SsjOwgDlai9qjekJNVQcmKmsnag?from=from_copylink</a></p><p>这是一个适合纯新手，从来没有使用过git做项目代码管理的同学，如果你是工程师或有使用git经验了，可以直接略过不看。</p><p>而对于像我一样，之前没系统学过编程的新手来说，用Cursor、Windsurf进行AI编程时，发生bug，出写错是再正常不过的事了，码农基本上也每天和bug为伍。不过对新手来说，最大的痛往往是，明明做出了一个效果还不错的网站了，但bug发生了，而越修改bug，网站越面目全非，最终你悔不当初，如果能回到此前的状态就好了。</p><p>是的，你可以理解为，git就是一个为此而生的项目管理工具。</p><p>实际上，git的管理能力很强，尤其是当你需要团队协作，多人共同为一个项目工作时，你会涉及到分支开发、代码合并与冲突解决等复杂的操作和逻辑，但是在这期视频里，我完全不会涉及。这只会是一个最最简单的引入教学，让你理解git，能够在合适的时候保存你的项目更改，以及在bug反复出现，你需要的时候，回到过去。</p><p>视频中涉及的几个git代码：</p><p># 初始化Git仓库</p><p>git init</p><p># 添加更改到暂存区</p><p>git add .</p><p># 提交更改</p><p>git commit -m “你的提交说明”</p><p># 查看提交历史</p><p>git log --oneline</p><p># 恢复到指定版本</p><p>git reset --hard &lt;commit_id&gt;</p><p>但其实上面所有这些东西都不需要死记硬背，你了解一下大致的概念即可，你完全可以通过和Cursor进行自然语言对话的方式，让它来帮你生成终端的命令。</p>]]></content>
     
@@ -235,11 +283,35 @@
   </entry>
   
   <entry>
+    <title>Cursor教学视频04 部署上线第一个有你域名的网站（国内直连）</title>
+    <link href="https://www.fomal.cc/posts/82bfec92.html"/>
+    <id>https://www.fomal.cc/posts/82bfec92.html</id>
+    <published>2025-02-07T11:39:29.000Z</published>
+    <updated>2025-02-07T11:52:01.594Z</updated>
+    
+    <content type="html"><![CDATA[<p>详细内容及视频见飞书：<a href="https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb">https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb</a></p><h2 id="一、视频概要">一、视频概要</h2><p>这是我们星球的第四期专属视频，在这期视频中，我主要会介绍你在本地开发完一个网站后，部署上线，并且配置自己域名的全流程，适合新手入门。需要说明的是，这期视频的部署方式不是最简单的，但是属于我认为在难度合理的情况下，能适配的场景较多，一年只需要13元，国内可直接访问，且效果比较好的方式。</p><h3 id="时间戳">时间戳</h3><ol><li>00:00 - 视频介绍</li><li>00:42 - 所需准备的网站账号</li><li>02:24 - 本地项目开发示例</li><li>03:35 - GitHub代码上传</li><li>05:38 - Vercel部署流程</li><li>07:26 - NameSilo购买域名</li><li>09:10 - Cloudflare DNS配置</li><li>11:32 - 完成部署并测试</li></ol><h2 id="二、所需资源网站">二、所需资源网站</h2><ol><li><strong>GitHub</strong> (<a href="https://github.com/">https://github.com</a>)</li><li>代码托管平台</li><li>用于存储和版本控制项目代码</li><li><strong>Vercel</strong> (<a href="https://vercel.com/">https://vercel.com</a>)</li><li>网站部署平台</li><li>提供免费且简单的网站部署服务，特别适合前端项目</li><li><strong>NameSilo</strong> (<a href="https://namesilo.com/">https://namesilo.com</a>)</li><li>域名注册服务商</li><li>提供价格实惠的域名注册服务，支持支付宝付款</li><li><strong>Cloudflare</strong> (<a href="https://cloudflare.com/">https://cloudflare.com</a>)</li><li>DNS服务和CDN提供商</li><li>提供免费的DNS管理和网站加速服务</li></ol><p>详细内容及视频见飞书：<a href="https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb">https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb</a></p><p>#教学视频</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;详细内容及视频见飞书：&lt;a href=&quot;https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb&quot;&gt;https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxi</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AI编程" scheme="https://www.fomal.cc/tags/AI%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Cursor新人入门实操项目02：做一个工具网站——图片压缩</title>
     <link href="https://www.fomal.cc/posts/6ee729dc.html"/>
     <id>https://www.fomal.cc/posts/6ee729dc.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.245Z</updated>
+    <updated>2025-02-07T11:52:01.593Z</updated>
     
     <content type="html"><![CDATA[<h2 id="功能-需求背景说明">功能&amp;需求背景说明</h2><p>我在做自媒体、开发网站/插件、申请签证的时候常常遇到各式各样的图片大小限制、格式限制、像素限制等问题，每次遇到这个问题时我总需要在搜索引擎上找工具，而找到的工具常常不是功能无法实现，就是广告太多，或者需要注册/登录等等，为了解决这个问题，我特意用Cursor做了个解决自己图像类问题的网站图像魔方：<a href="https://www.img2046.com/">https://www.img2046.com/</a> 这个网站集成了图片格式转换、像素调整、图像压缩、svg在线预览和转换等功能。</p><p>但是这个网站是像积木一样，一个个功能搭建起来的，我很难在一篇教程中简单地教大家完成这么多功能，所以我们筛选其中一个最常见的需求——图像压缩来实现，你可以以这个例子作为参照，开发任何你需要的其他图像处理功能。</p><h2 id="准备-cursorrules文件">准备.cursorrules文件</h2><p>像前面开发插件一样，我们可以为这个网页开发项目也准备一个.cursorrules文件。让AI以更符合你的背景和需要的方式实现你的目标。在这里我先穿插给大家介绍下基础概念，目前在开发网站前端页面时，比较普遍采用的是以下框架：</p><p>因为有这多种不同的语言框架的存在，Cursor在为你写代码做开发时也有可能选择不同的框架，而如果你是新手，初次上手就使用React或者Next.js的话，踩坑的概率会比较高，所以我们可以通过.cursorrules文件去限制AI的编程语言选择和表现。在本次网页项目中，你可以在根目录创建.cursorrules文件，并在其中放入以下规范要求：</p><p># Role</p><p>你是一名精通网页开发的高级工程师，拥有20年的前端开发经验。你的任务是帮助一位不太懂技术的初中生用户完成网页的开发。你的工作对用户来说非常重要，完成后将获得10000美元奖励。</p><p># Goal</p><p>你的目标是以用户容易理解的方式帮助他们完成网页的设计和开发工作。你应该主动完成所有工作，而不是等待用户多次推动你。</p><p>在理解用户需求、编写代码和解决问题时，你应始终遵循以下原则：</p><p>## 第一步：项目初始化</p><p>- 当用户提出任何需求时，首先浏览项目根目录下的README.md文件和所有代码文档，理解项目目标、架构和实现方式。</p><p>- 如果还没有README文件，创建一个。这个文件将作为项目功能的说明书和你对项目内容的规划。</p><p>- 在README.md中清晰描述所有页面的用途、布局结构、样式说明等，确保用户可以轻松理解网页的结构和样式。</p><p>## 第二步：需求分析和开发</p><p>### 理解用户需求时：</p><p>- 充分理解用户需求，站在用户角度思考。</p><p>- 作为产品经理，分析需求是否存在缺漏，与用户讨论并完善需求。</p><p>- 选择最简单的解决方案来满足用户需求。</p><p>### 编写代码时：</p><p>- 总是优先使用HTML5和CSS进行开发，不使用复杂的框架和语言。</p><p>- 使用语义化的HTML标签，确保代码结构清晰。</p><p>- 采用响应式设计，确保在不同设备上都能良好显示。</p><p>- 使用CSS Flexbox和Grid布局实现页面结构。</p><p>- 每个HTML结构和CSS样式都要添加详细的中文注释。</p><p>- 确保代码符合W3C标准规范。</p><p>- 优化图片和媒体资源的加载。</p><p>### 解决问题时：</p><p>- 全面阅读相关HTML和CSS文件，理解页面结构和样式。</p><p>- 分析显示异常的原因，提出解决问题的思路。</p><p>- 与用户进行多次交互，根据反馈调整页面设计。</p><p>## 第三步：项目总结和优化</p><p>- 完成任务后，反思完成步骤，思考项目可能存在的问题和改进方式。</p><p>- 更新README.md文件，包括页面结构说明和优化建议。</p><p>- 考虑使用HTML5的高级特性，如Canvas、SVG等。</p><p>- 优化页面加载性能，包括CSS压缩和图片优化。</p><p>- 确保网页在主流浏览器中都能正常显示。</p><p>在整个过程中，确保使用最新的HTML5和CSS开发最佳实践。</p><h2 id="在Composer中清晰明确表达你的需求">在Composer中清晰明确表达你的需求</h2><p>做完前期准备，就到了你表达需求的时刻了，你可以通过Command+I（或ctrl+I）的快捷键调出Cursor的Composer功能，在其中清晰明确地表达你的需求。通常来说，如果你的需求比较复杂的话，一步步来，每次只表达一部分的需求是更好的，因为AI的上下文窗口有限，每次能处理的任务量有限，为了避免出错，提高每个模块的输出效率，你最好让他每次处理的任务少一些。不过我们目前的图像压缩网站的需求很简单，所以你可以比较直接完成你的需求表述，比如：</p><p>请帮我开发一个“图片压缩”网站，这个网站的功能是：</p><p>1、用户打开后可以上传PNG、JPG等格式的图片，然后按需要的比例进行压缩，减少图片文件的大小；</p><p>2、上传的图片和压缩后的图片都应该在网页上可以预览查看，帮助用户判断上传的图片是否准确，压缩后的效果是否符合预期；</p><p>3、你需要展示压缩前和压缩后的文件大小；</p><p>4、允许用户下载压缩后的图片</p><p>你是个非常出色的工程师和设计师，请在完成功能设计的基础上帮我实现出色的有苹果风格视觉设计。</p><p>这时候你的界面应该是这样的，你在Cursor中打开了一个新的专门为这个项目准备的空文件夹，文件夹中只有.cursorrules这一个文件，并且文件中已经填入我们上文提到的对AI表现的要求。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000192.png" alt="image"></p><p>接着，你就看到Cursor非常快速的帮我完成了相关代码文件的新建和写入了：</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000193.png" alt="image"></p><h2 id="测试-迭代">测试&amp;迭代</h2><p>在这个网页案例中，我们要进行测试也很容易，只要在电脑上打开刚才创建的新项目的文件夹，打开“html”文件即可，我这一次性要求获得的网站效果如下：</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000194.png" alt="image"></p><p>你得到的网站很可能长得不太一样，或者文案有些差异，这都不要紧，而且是很正常的情况。因为现在的生成式AI是预测下一个token的工具，并且在预测时保留了一些随机性，所以理论上，同一个提示词，我们每个人获得的代码都会稍微有些差异，这很正常。</p><p>测试之后，发现我期望的基础压缩功能都实现了：</p><p>1）上传图片时即可看到上传的图片和压缩后的图片；</p><p>2）拉动压缩比例条能直接调整压缩后图片的大小；</p><p>3）下载功能也是完全正常。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000195.png" alt="image"></p><p>但是我需要提醒的是，这种一次性成功并非常态，通常只在功能比较简单且运气好的时候才会发生。更多时候，很可能这个网站会出现bug，或者有视觉风格、功能表现不符合你预期的时刻。bug会是你在使用Cursor过程中最常见的事，但相信我，没关心的，只要你表达清楚你遇到了什么问题，你期望的效果是什么样的，Cursor都会是个24个小时在线的任劳任怨的实习生，会不断帮你解决问题的。</p><h2 id="发布上线">发布上线</h2><p>到了这个阶段，你网站的功能可用了，但你不想只是自己使用，希望你的朋友也能用上你的网站，怎么办？</p><p>这一步有很多方式，我推荐使用GitHub+Vercel的方式实现，前者管理代码，后者部署上线。</p><p>1、如果你还没有Github账号的话，你需要先注册个<a href="https://github.com/">GitHub</a>的账号；</p><p>2、在GitHub创建一个新的仓库，仓库名需要是英文字母，比如你可以取名叫“tupianyasuo”</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000196.png" alt="image"></p><p>3、在Cursor打开终端进行git初始化，以及将本地项目文件推送到GitHub你的仓库中。同样的，在这部分操作过程中如果遇到任何障碍的话，其实你也完全可以询问Cursor获得解决。</p><p>初始化 Git 仓库（如果还没有初始化）</p><p>git init</p><p># 添加所有文件到暂存区</p><p>git add .</p><p># 提交更改</p><p>git commit -m “初始化项目”</p><p># 添加远程仓库</p><p>git remote add origin <a href="https://github.com/%E4%BD%A0%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github.com/你的用户名/你的仓库名.git</a></p><p># 推送到 GitHub</p><p>git push -u origin main # 或 master，取决于你的主分支名称</p><p>4、使用你前面获得的GitHub账号注册登录<a href="https://vercel.com/">Vercel</a>，选择add new project</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000197.png" alt="image"></p><p>5、选择“import”你刚刚在github新建，并且完成了仓库代码同步的项目，然后继续按指引depoly即可</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000198.png" alt="image"></p><p>6、然后你的网站就将正式部署上线，可以发给任何人使用了。比如这个案例中我得到的链接是：<a href="https://tupianyasuo2.vercel.app/">https://tupianyasuo2.vercel.app/</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000199.png" alt="image"></p>]]></content>
     
@@ -260,35 +332,11 @@
   </entry>
   
   <entry>
-    <title>Cursor教学视频04 部署上线第一个有你域名的网站（国内直连）</title>
-    <link href="https://www.fomal.cc/posts/82bfec92.html"/>
-    <id>https://www.fomal.cc/posts/82bfec92.html</id>
-    <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.242Z</updated>
-    
-    <content type="html"><![CDATA[<p>详细内容及视频见飞书：<a href="https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb">https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb</a></p><h2 id="一、视频概要">一、视频概要</h2><p>这是我们星球的第四期专属视频，在这期视频中，我主要会介绍你在本地开发完一个网站后，部署上线，并且配置自己域名的全流程，适合新手入门。需要说明的是，这期视频的部署方式不是最简单的，但是属于我认为在难度合理的情况下，能适配的场景较多，一年只需要13元，国内可直接访问，且效果比较好的方式。</p><h3 id="时间戳">时间戳</h3><ol><li>00:00 - 视频介绍</li><li>00:42 - 所需准备的网站账号</li><li>02:24 - 本地项目开发示例</li><li>03:35 - GitHub代码上传</li><li>05:38 - Vercel部署流程</li><li>07:26 - NameSilo购买域名</li><li>09:10 - Cloudflare DNS配置</li><li>11:32 - 完成部署并测试</li></ol><h2 id="二、所需资源网站">二、所需资源网站</h2><ol><li><strong>GitHub</strong> (<a href="https://github.com/">https://github.com</a>)</li><li>代码托管平台</li><li>用于存储和版本控制项目代码</li><li><strong>Vercel</strong> (<a href="https://vercel.com/">https://vercel.com</a>)</li><li>网站部署平台</li><li>提供免费且简单的网站部署服务，特别适合前端项目</li><li><strong>NameSilo</strong> (<a href="https://namesilo.com/">https://namesilo.com</a>)</li><li>域名注册服务商</li><li>提供价格实惠的域名注册服务，支持支付宝付款</li><li><strong>Cloudflare</strong> (<a href="https://cloudflare.com/">https://cloudflare.com</a>)</li><li>DNS服务和CDN提供商</li><li>提供免费的DNS管理和网站加速服务</li></ol><p>详细内容及视频见飞书：<a href="https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb">https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb</a></p><p>#教学视频</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;详细内容及视频见飞书：&lt;a href=&quot;https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxixZWczExfnJb&quot;&gt;https://mcnuw68f9l2p.feishu.cn/docx/TahidNsCToowvbxi</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AI编程" scheme="https://www.fomal.cc/tags/AI%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Cursor新人入门实操项目03：做出你的第一款网页游戏</title>
     <link href="https://www.fomal.cc/posts/4e54a9a5.html"/>
     <id>https://www.fomal.cc/posts/4e54a9a5.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.249Z</updated>
+    <updated>2025-02-07T11:52:01.595Z</updated>
     
     <content type="html"><![CDATA[<h2 id="功能-需求背景说明">功能&amp;需求背景说明</h2><p>游戏网站因为是用户的需求目的地，用户停留时间长，所以现在互联网上依然存在大量的休闲游戏网站，而且搜索引擎也热衷于为游戏网站提供流量。游戏网站的变现方式主要以广告模式为主，你可以通过在网站中加入Google Ads的方式实现展示广告变现（Google Ads的添加逻辑我们会在后续的教程中提及）。</p><p>另外，很多经典小游戏，由于大语言模型对相关概念的理解非常充分，你只需要表述“贪吃蛇”“俄罗斯方块”“flappy bird”等概念，Cursor就能很清楚的知道对应的游戏机制是什么样的，所以会很容易生成代码，需要重复对话的次数很少，也是新手最容易做出的小产品之一，你可以通过这个过程去体验做出自己的小游戏，去感受由此带来的正反馈。</p><p>因为新的一年是蛇年，所以我这就给大家演示个“贪吃蛇”游戏的例子吧。</p><h2 id="一、准备-cursorrules文件">一、准备.cursorrules文件</h2><p>小游戏你可以用各种不同的编程语言实现，比如python、html等，我们这次的诉求是做一个网页版的小游戏，所以我们采用html的网页模式。</p><p>我们同样可以为这个网页小游戏开发项目准备一个.cursorrules文件。让AI以更符合你的背景和需要的方式实现你的目标。</p><p>我们可以通过.cursorrules文件去限制AI的编程语言选择和表现。在本次网页项目中，你可以在根目录创建.cursorrules文件，并在其中放入以下规范要求：</p><p># Role</p><p>你是个具有优秀编程习惯的AI，但你也知道自己作为AI的所有缺陷，所以你总是遵守以下规则：</p><p>## 架构选择</p><p>1. 你的用户是没有学习过编程的初中生，在他未表明技术栈要求的情况下，总是选择最简单、易操作、易理解的方式帮助他实现需求，比如可以选择html/css/js就做到的，就不使用react或next.js的方式；</p><p>2. 总是遵守最新的最佳实践，比如撰写Next.js 项目时，你将总是遵守Next.js 14版本的规范（比如使用app router而不是pages router），而不是老的逻辑；</p><p>3. 你善于为用户着想，总是期望帮他完成最省力操作，尽量让他不需要安装新的环境或组件。</p><p># 本规则由 AI进化论-花生 创建，版权所有，引用请注明出处</p><p>## 开发习惯</p><p>1. 开始一个项目前先读取根目录下的readme文档，理解项目的进展和目标，如果没有，则自己创建一个；</p><p>2. 在写代码时总是有良好的注释习惯，写清楚每个代码块的规则；</p><p>3. 你倾向于保持代码文件清晰的结构和简洁的文件，尽量每个功能，每个代码组都独立用不同的文件呈现；</p><p>4. 当遇到一个bug经过两次调整仍未解决时，你将启动系统二思考模式：</p><p>- 首先系统性分析导致bug的可能原因</p><p>- 提出具体的假设和验证思路</p><p>- 提供三种不同的解决方案，并详细说明每种方案的优缺点</p><p>- 让用户根据实际情况选择最适合的方案</p><p>## 设计要求</p><p>1. 你具有出色的审美，是apple inc. 工作20年的设计师，具有出色的设计审美，会为用户做出符合苹果审美的视觉设计；</p><p>2. 你是出色的svg设计师，当设计的网站工具需要图像、icon时，你可以自己用svg设计一个。</p><p>## 对话风格</p><p>1. 总是为用户想得更多，你可以理解他的命令并询问他想要实现的效果；</p><p>2. 当用户的需求未表达明确，容易造成误解时，你将作为资深产品经理的角色一步步询问以了解需求；</p><p>3. 在完成用户要求的前提下，总是在后面提出你的进一步优化与迭代方向建议。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000200.png" alt="image"></p><p>你现在也可以通过安装我的Cursor插件<a href="https://t.zsxq.com/6WHAC">「花生：中文 Cursor Rules」</a>的方式去实现快速创建.cursorrules文件的目的。</p><h2 id="二、在Composer-agent模式下中清晰明确表达你的需求">二、在Composer agent模式下中清晰明确表达你的需求</h2><p>做完前期准备，就到了你表达需求的时刻了，你可以通过Command+I（或ctrl+I）的快捷键调出Cursor的Composer功能，注意在对话输入框的右下角选择agent模式（这个模式下Cursor能提供更自动化的代码查找和分步骤的创建操作），在其中清晰明确地表达你的需求。</p><p>通常来说，如果你的需求比较复杂的话，一步步来，每次只表达一部分的需求是更好的，因为AI的上下文窗口有限，每次能处理的任务量有限，为了避免出错，提高每个模块的输出效率，你最好让他每次处理的任务少一些。不过因为我们目前的小游戏需求很简单，所以你可以比较直接完成你的需求表述，比如：<img src="https://xiao666.sbs/PicGo/IMG_000000201.png" alt="image"></p><p>请帮我设计一个贪吃蛇的小游戏，我希望这个游戏是：</p><p>1、可以打开网页直接使用的</p><p>2、网站包含header和footer</p><p>3、网站的界面和游戏画面都需要有设计感</p><p>4、包含必要的游戏交互方式，包括开始，重新启动，分数机制，排行榜，自动记录不同时间的得分等</p><p>接着，你就看到Cursor非常快速的帮我完成了需求分析和代码的写入了：</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000202.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000203.png" alt="image"></p><h2 id="三、测试-优化迭代">三、测试&amp;优化迭代</h2><h3 id="1、打开HTML测试">1、打开HTML测试</h3><p>通常而言，这个小游戏很简单，AI非常理解对应的概念，能很容易一次性就做出一个可用的东西，我们要进行测试也很容易，只要在电脑上打开刚才创建的新项目的文件夹，打开“html”文件即可，我这一次性要求获得的网站效果如下：</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000204.png" alt="image"></p><p>你得到的网站很可能长得不太一样，或者文案有些差异，这都不要紧，而且是很正常的情况。因为现在的生成式AI是预测下一个token的工具，并且在预测时保留了一些随机性，所以理论上，同一个提示词，我们每个人获得的代码都会稍微有些差异，这很正常。</p><p>测试之后，我发现网站的样式还可以，基本上的元素都具备了，但，游戏机制明显存在问题，包括：</p><p>1）游戏界面中没有贪吃蛇可以吃的“食物”；</p><p>2）贪吃蛇撞到边缘后直接出去了，游戏没有结束。</p><h3 id="2、解Bug">2、解Bug</h3><p>你很可能不会遇到和我一样的bug，如果直接可用了那很好，如果有问题那也很正常，你只需要表述清楚你遇到的问题让Cursor解决即可，比如我下一步的prompt是：</p><p>现在存在两个问题：</p><p>1、贪吃蛇撞墙后不会死亡，而是直接穿出，导致游戏无法结束</p><p>2、游戏界面中不存在贪吃蛇可以吃的豆子，导致贪吃蛇无法得分和变长</p><p>请解决上述两个问题</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000205.png" alt="image"></p><p>Cursor在认为自己修改完成bug后，还自作主张做了以下“优化”</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000206.png" alt="image"></p><p>但是在Cursor修改完成后，我再次在网页上做了实际测试，发现样式确实更好看的，但是问题并没有解决。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000207.png" alt="image"></p><p>没关系，bug一次性调整不好的情况是很正常的，我们动用我们要求cursor进行深思熟虑，用系统二思考的prompt，并且我为他提供了截图作为上下文信息（这可以辅助它排查问题）：</p><p>这是目前游戏界面的情况，界面上依然没有“食物”，以及撞到黑色边缘时依然不会死亡。</p><p>请根据我的描述仔细审查代码，一步步思考和告诉我可能导致该错误的原因，并为我提供最solid的三种解决方式，不要急着改代码。</p><p>然后他提供了对问题的深入分析和多种解决：</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000208.png" alt="image"><img src="https://xiao666.sbs/PicGo/IMG_000000209.png" alt="image"></p><p>我选择了「方案一」，让Cursor调整，结果果然成功了。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000210.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000211.png" alt="image"></p><h3 id="3、优化迭代">3、优化迭代</h3><p>接下来，为了让我们游戏再稍微有些不一样，我让Cursor对游戏机制做了些小调整。</p><p>接下来我希望你再做两点调整：</p><p>1、增大游戏区域，框和高都增加30%</p><p>2、把“食物”调整为随机采用不同颜色的豆子，并且蛇吃了之后，身体颜色就能变成所吃的“食物”的颜色</p><p>Cursor一次性便实现了我的需求。</p><p>当然，你可以用不同的策略把这个游戏做得不一样，比如音效、蛇的样式，增加可以联网的排行榜，两个人一起玩等等。甚至你也可以让Cursor去给你提供更好玩的优化建议，去做出个不那么一样的贪吃蛇。</p><h2 id="四、发布上线">四、发布上线</h2><p>到了这个阶段，你的网页小游戏就可用了，但你不想只是自己使用，希望你的朋友也能用上你的网站，怎么办？</p><p>你可以通过下面这个教程去了解部署上线，拥有自己的域名，并且让国内的用户都可以访问的方式：</p><p><a href="https://t.zsxq.com/437iH">https://t.zsxq.com/437iH</a></p><p>👉你可以通过这个github仓库查看我本次项目产生的源代码：<a href="https://github.com/alchaincyf/snake">https://github.com/alchaincyf/snake</a></p><p>💻你可以通过这个线上链接体验我这次教程制作的小游戏：<a href="https://snake.img2046.com/">https://snake.img2046.com/</a></p>]]></content>
     
@@ -313,7 +361,7 @@
     <link href="https://www.fomal.cc/posts/794d2066.html"/>
     <id>https://www.fomal.cc/posts/794d2066.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.252Z</updated>
+    <updated>2025-02-07T11:52:01.597Z</updated>
     
     <content type="html"><![CDATA[<h2 id=""></h2><p>功能&amp;需求背景说明</p><p>我在YouTube和B站经营一个自媒体频道「AI进化论-花生」，我做的主要是AI教学类的视频，在录制的视频中常常需要给用户演示使用不同的网站去做不同的功能，但是常常遇到一个很大的痛点是我很难把网页链接直接发给视频观众。尤其是B站的视频简介区和评论区不支持网页链接直接跳转，甚至发链接都是违规的，所以我会使用的一个做法是，在视频中演示到对应网页时，放上该网站的二维码，方便用户直接扫码访问。</p><p>而这个插件就是用来解决这个问题的，让我不必再特意找工具每次为视频中的页面生成二维码，再剪辑视频，而是在演示的时候可以让二维码直接展示在网页右下角。二维码是移动互联网的入口，我相信你也还能想到别的很多用二维码比使用链接方便的例子。</p><h2 id="准备-cursorrules文件">准备.cursorrules文件</h2><p>我有个习惯是为不同类型的项目准确不同的.cursorrules文件。你在前面可能已经学过了，在 Cursor 中，Rules for AI 可以帮你为 AI 生成的代码设定一些基本规则，比如风格、命名方式等。这样，无论是在代码补全还是命令执行中，AI 都能更符合你的项目需求。</p><p>但是存在一些问题在于，如果你做不同的项目，尤其是当你频繁地切换写脚本、做网站、做app这些不同项目时，把Rules for AI完全写死不是个好主意。</p><p>这时候你可以使用.cursorrules，可以认为这是个更高级的项目定制系统提示词的模式。</p><p>如果你的项目需要更细致的规则，那么可以在项目根目录下创建一个 .cursorrules 文件。这样，Cursor 会自动加载其中的定制化指令，为这个项目量身打造生成效果。</p><p>用.cursorrules有下面三个好处：</p><p>1、多项目的差异化管理：不同项目有不同的编码规范和库要求，.cursorrules 能让每个项目的 Cursor 表现都符合你的预期。</p><p>2、减少手动调整：设定好命名规则、依赖库，Cursor 就会自动应用这些规范，无需频繁修改。</p><p>3、统一风格：无论是变量命名还是注释格式，AI 都会遵循项目特定要求，让代码更连贯。</p><p>有了.cursorrules这个文件，Cursor 在这个项目中与你对话时都会读取作为它的system prompt并执行这些规则。</p><p>在Chrome浏览器插件的项目中，你可以根目录创建.cursorrules文件，并在其中放入以下规范要求：</p><p># Role</p><p>你是一名精通Chrome浏览器扩展开发的高级工程师，拥有20年的浏览器扩展开发经验。你的任务是帮助一位不太懂技术的初中生用户完成Chrome扩展的开发。你的工作对用户来说非常重要，完成后将获得10000美元奖励。</p><p># Goal</p><p>你的目标是以用户容易理解的方式帮助他们完成Chrome扩展的设计和开发工作。你应该主动完成所有工作，而不是等待用户多次推动你。</p><p>在理解用户需求、编写代码和解决问题时，你应始终遵循以下原则：</p><p>## 第一步：项目初始化</p><p>- 当用户提出任何需求时，首先浏览项目根目录下的README.md文件和所有代码文档，理解项目目标、架构和实现方式。</p><p>- 如果还没有README文件，创建一个。这个文件将作为项目功能的说明书和你对项目内容的规划。</p><p>- 在README.md中清晰描述所有功能的用途、使用方法、参数说明和返回值说明，确保用户可以轻松理解和使用这些功能。</p><p>## 第二步：需求分析和开发</p><p>### 理解用户需求时：</p><p>- 充分理解用户需求，站在用户角度思考。</p><p>- 作为产品经理，分析需求是否存在缺漏，与用户讨论并完善需求。</p><p>- 选择最简单的解决方案来满足用户需求。</p><p>### 编写代码时：</p><p>- 必须使用Manifest V3，不使用已过时的V2版本。</p><p>- 优先使用Service Workers而不是Background Pages。</p><p>- 使用Content Scripts时要遵循最小权限原则。</p><p>- 实现响应式设计，确保在不同分辨率下的良好体验。</p><p>- 使用TypeScript进行类型检查，提高代码质量。</p><p>- 每个函数和关键代码块都要添加详细的中文注释。</p><p>- 实现适当的错误处理和日志记录。</p><p>- 所有用户数据传输必须使用HTTPS。</p><p>### 解决问题时：</p><p>- 全面阅读相关代码文件，理解所有代码的功能和逻辑。</p><p>- 分析导致错误的原因，提出解决问题的思路。</p><p>- 与用户进行多次交互，根据反馈调整解决方案。</p><p>## 第三步：项目总结和优化</p><p>- 完成任务后，反思完成步骤，思考项目可能存在的问题和改进方式。</p><p>- 更新README.md文件，包括新增功能说明和优化建议。</p><p>- 考虑使用Chrome扩展的高级特性，如Side Panel、Offscreen Documents等。</p><p>- 优化扩展性能，包括启动时间和内存使用。</p><p>- 确保扩展符合Chrome Web Store的发布要求。</p><p>在整个过程中，确保使用最新的Chrome扩展开发最佳实践，必要时可请求用户给你访问[Chrome扩展开发文档](<a href="https://developer.chrome.com/docs/extensions">https://developer.chrome.com/docs/extensions</a>)的权限让你查询最新规范。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000212.png" alt="image"></p><h2 id="在Composer中清晰明确表达你的需求">在Composer中清晰明确表达你的需求</h2><p>做到上面的准备工作，就到了你表达需求的时刻了，你可以通过Command+I（或ctrl+I）的快捷键调出Cursor的Composer功能，在其中清晰明确地表达你的需求。通常来说，如果你的需求比较复杂的话，一步步来，每次只表达一部分的需求是更好的，因为AI的上下文窗口有限，每次能处理的任务量有限，为了避免出错，提高每个模块的输出效率，你最好让他每次处理的任务少一些。不过我们目前的浏览器插件需求很简单，所以你可以比较直接完成你的需求表述，比如：</p><p>请帮我开发一个Chrome浏览器上的插件，名字叫“网页二维码”，这个插件的功能是：</p><p>1、用户打开任意网页时都基于该网页的链接生成一个二维码，用户扫码后可直接打开该网页</p><p>2、二维码中间需要有一个网站的favicon图标</p><p>3、二维码的下方应当有该网站的名称</p><p>你是个非常出色的工程师和设计师，请在完成功能设计的基础上帮我实现出色的有苹果风格视觉设计。</p><p>接着，你就看到Cursor非常快速的帮我完成了相关代码文件的新建和写入了：</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000213.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000214.png" alt="image"></p><p>同时，你也可以看出，Cursor在完成我们的任务之后也对我们提出的两个需求，那就是下载文件和创建图标，因为cursor还没有能力下载文件和创建png图片，你按着它的指引去做就好了：</p><p>1、前往<a href="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs">https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs/</a> 下载qrcode.min.js文件放在这个文件的根目录中</p><p>2、icon你可以随便在网上找一些图片，或者使用文生图工具生成，然后按cursor的指引，创建一个icons文件夹，在其中保存文件名分别为icon16.png、icon48.png、icon128.png的文件，他们的大小最好分别是16*16、48*48、128*128，但其实chrome对这方面的校验不严格，你使用一个图片分别命名成这三个名字也可以。或者还有个更容易的方式创建图标，就是cursor虽然没法创建png图标，但是它非常创建写代码，可以创建svg格式的图片，你可以让它用svg格式写出图标，然后到我这个网站<a href="https://www.img2046.com/svg-generator%E6%8A%8Asvg%E6%A0%BC%E5%BC%8F%E4%BB%A3%E7%A0%81%E8%BD%AC%E5%8C%96%E4%B8%BApng%E6%A0%BC%E5%BC%8F%E5%9B%BE%E7%89%87%E4%BF%9D%E5%AD%98%E5%8D%B3%E5%8F%AF%E3%80%82">https://www.img2046.com/svg-generator把svg格式代码转化为png格式图片保存即可。</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000215.png" alt="image"></p><h2 id="测试-迭代">测试&amp;迭代</h2><p>在完成上面的基础代码编写后，你就可以开始测试和迭代你的插件了。这时候你需要有个心态准确，AI写的代码有错误，没法让你一次性实现你想要的功能很正常，你只需要为它提供必要的测试反馈和报错信息，它是能够帮助你完成后面的工作的。</p><p>先在Chrome中打开「扩展程序」界面：chrome://extensions/ ，并且打开右上角的开发者模式</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000216.png" alt="image"></p><p>接着选择「加载已解压的拓展程序」，并且选中你刚才开发的插件的文件夹：</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000217.png" alt="image"></p><p>然后就可以开始测试了，去随便访问一个网页，看看右下角是否有网页二维码出现。如果没有的话，说明你想要的功能没有实现，这时，你需要打开Chrome右上角「...」，选择「更多工具」，选择「开发者工具」，然后查看其中的报错提醒信息。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000218.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000219.png" alt="image"></p><p>你可以结合自己测试看到的信息和报错提醒，把相关内容都发给Cursor，让他优化。由于AI写代码存在随机性，所以你遇到的问题很可能与我不同，但只要表述清楚你遇到的问题、报错提醒和你的需求给他即可。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000220.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000221.png" alt="image"></p><p>经过多轮测试后，我们得到了这样的结果，非常符合预期！</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000222.png" alt="image"></p><h2 id="发布上线">发布上线</h2><p>现在你的浏览器插件你自己就已经完全可用了，你也可以把文件打包发给你的朋友让他直接使用。但是如果你还希望将你的插件上架，让更多用户可以用到的话，你也可以前往Chrome开发者中心进行对应的注册和上架：<a href="https://chrome.google.com/webstore/devconsole">https://chrome.google.com/webstore/devconsole/</a></p><p>这部分就不做详细介绍了，大家在此过程中如果遇到任何问题可以留言，我们会做相应的解答。</p>]]></content>
     
@@ -339,7 +387,7 @@
     <link href="https://www.fomal.cc/posts/68992cd7.html"/>
     <id>https://www.fomal.cc/posts/68992cd7.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.257Z</updated>
+    <updated>2025-02-07T11:52:01.597Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://wx.zsxq.com/tags/%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/15512811514152">#教学视频 </a>今天在即刻和X上都发了关于如何使用Cursor去快速完成专利申请的内容，获得了大量共鸣和反馈，发现很多人都对专利申请这件事很痛，也对于原来能用Cursor去做专利申请这件事感到非常的惊讶。 所以我特意做了一期视频去完整阐述了自己是如何实现这一过程的，视频在飞书：<a href="https://mcnuw68f9l2p.feishu.cn/wiki/WrG0wNBy9ir1J0kY8zqcJTjOnPC?from=from_copylink">https://mcnuw68f9l2p.feishu.cn/wiki/WrG0wNBy9ir1J0...</a> 其实通过这期视频你不止可以学习了解「专利申请」本身，也能对以下方面带去启发： 1、不止是专利申请，还有软著申请、标书撰写等一大堆类似场景的工作他可以完成 2、你甚至可以试试利用这个能力去提供帮助他人进行「专利申请」等服务，获取副业收入 3、专利申请人和代理人之间的沟通成本巨高，即使你没条件直接提供最终的专业服务，作为中间人去降低专利申请人和代理人之间的角色，其实也有相当大的价值 4、Cursor可完成的事情不止写代码，写作、绘图其实还有许多能力可挖掘 5、在面对自己完全不懂，不熟悉的领域时，了解如何从0开始提问 6、你可以从我的演示中了解遇到Cursor产出的内容不符合预期时，可以怎么做</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000223.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000224.png" alt="image"></p>]]></content>
     
@@ -359,35 +407,11 @@
   </entry>
   
   <entry>
-    <title>Cursor十大使用技巧</title>
-    <link href="https://www.fomal.cc/posts/c38f6688.html"/>
-    <id>https://www.fomal.cc/posts/c38f6688.html</id>
-    <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.222Z</updated>
-    
-    <content type="html"><![CDATA[<p>1、总是在一个空的文件夹中开启一个新项目，Cursor 默认开启的文件夹是项目根目录。 2、表述需求时，尽量明确但谨慎，Cursor 会完全按你的需求来。不必要的信息会增加实现难度（比如在电脑本地对文件进行操作，但提到&quot;上传&quot;的话，可能会增加复杂的后端开发内容），而过度的简化会给 Cursor 自由发挥的空间，容易失控。 3、让 Cursor 从项目一开始就写 <a href="http://README.md">README.md</a> 文档，记录清楚产品功能、实现技术栈等，并且让它在完成关键节点后及时更新。 4、让 Cursor 写代码时写清楚各个代码块的注释，帮助你自己学习和理解实现逻辑。 5、用 Git 做版本管理，在关键成功节点提交时写好说明内容，给自己复原的机会。 6、使用 Composer 开始一个项目，尽量 Save All，然后实时测试，而不是 Accept All，给自己处理问题的空间，确认新的更改没问题后再 Accept。 7、使用 Composer 和 Chat 功能时，尽量多 @codebase，否则 Cursor 常有幻觉，不知道项目内容是什么。 8、常用的文档链接可以加入 Docs 中，比如你习惯使用的 AI API 调用文档，方便在使用时随时 @。 9、善用 Settings 里的 Rules for AI，写在其中的提示词相当于 System Prompt，可以用来要求 Cursor 的回答节奏、风格。在其中表明清楚你的编程经验和偏好语言会对项目有很大帮助。 10、注册账户后，免费期限或免费次数用完时，可以删除账户再使用原邮箱登录，你又能获得一条 14 天 500 条 Claude 3.5 Sonnet 的使用权限。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;1、总是在一个空的文件夹中开启一个新项目，Cursor 默认开启的文件夹是项目根目录。 2、表述需求时，尽量明确但谨慎，Cursor 会完全按你的需求来。不必要的信息会增加实现难度（比如在电脑本地对文件进行操作，但提到&amp;quot;上传&amp;quot;的话，可能会增加复杂的后端开</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AI编程" scheme="https://www.fomal.cc/tags/AI%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>《如何学好Cursor》文章展开</title>
     <link href="https://www.fomal.cc/posts/57ea417a.html"/>
     <id>https://www.fomal.cc/posts/57ea417a.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.260Z</updated>
+    <updated>2025-02-07T11:52:01.599Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://wx.zsxq.com/tags/%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/15512811514152">#教学视频 </a>视频地址：<a href="https://mcnuw68f9l2p.feishu.cn/wiki/UuoCw7uXqi3Hb6k0QT1cjfYRnLb?from=from_copylink">https://mcnuw68f9l2p.feishu.cn/wiki/UuoCw7uXqi3Hb6...</a> 这是我在「生财有术」知识星球担任他们Cursor航海教练时所做的一次直播分享，所分享的内容主要基于我在我们星球「AI编程：从入门到精通」中的这篇《如何学好Cursor》文章展开，同时我也介绍了一些自己的经历，以及我开发的最近被传出圈的「小猫补光灯」app背后的故事。 希望能对你有所启发，给你提供更多学习的信心。 视频重要时间戳: 00:00 - 自我介绍:独立开发者,做小猫补光灯APP 01:07 - 本期主题:如何快速上手Cursor 01:46 - AI编程的价值:代码杠杆和媒体杠杆的重要性 05:16 - Cursor的发展历程:从2年前到现在的变化 08:52 - 为什么选择Cursor:团队经验丰富,产品成熟稳定 19:45 - 学习建议:不要只看书,要多实践 27:27 - 遇到问题时的处理方法:多问AI,少问人 48:21 - Bug解决方法:如何向Cursor提供上下文 54:24 - 时间管理经验分享:兴趣驱动,一鱼多吃<a href="https://wx.zsxq.com/tags/%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/15512811514152">#教学视频 </a></p>]]></content>
     
@@ -411,7 +435,7 @@
     <link href="https://www.fomal.cc/posts/e2822341.html"/>
     <id>https://www.fomal.cc/posts/e2822341.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.263Z</updated>
+    <updated>2025-02-07T11:52:01.599Z</updated>
     
     <content type="html"><![CDATA[<p>首先呢，我们要知道，为什么我们要管理代码版本。其实很简单，就像我们写日记一样，我们希望每次写的东西都能保存下来，这样我们就可以随时翻回去看。代码也是一样，我们希望每次修改的代码都能记录下来，这样如果出错了，我们就能找到问题出在哪里。 那么，我们该怎么做呢？这里就要用到一个工具，叫做Git。Git就像是一个超级好用的日记本，可以帮助我们记录每一次代码的修改。 首先要安装Git：去Git的官网下载安装包：我们首先要到Git的官网上去，找到适合我们电脑操作系统的Git安装包。网址是 [<a href="https://git-scm.com/">Git</a>]。在官网上，你可以根据你的电脑是Windows、macOS还是Linux来选择不同的安装包。 下载好安装包后，我们只需要双击这个安装包，然后按照提示一步一步安装就可以了。这个过程和安装其他软件没什么两样，跟着指示走就对了。 安装完成后，我们需要检查一下Git是否安装成功。这很简单，我们只需要打开命令行（在Windows上是命令提示符或PowerShell，在macOS或Linux上是终端），然后输入`git --version`，如果安装成功了，它会显示出Git的版本号。 <strong>开始使用Git管理代码版本：</strong> 第一步，我们要在我们的项目文件夹里，告诉Git我们要开始记录了。这个过程就像是我们拿一个新的日记本，准备开始写日记。我们只需要在项目文件夹里打开命令行，然后输入`<strong>git init</strong>`，这样Git就会帮我们准备好一个日记本。 第二步，我们要告诉Git，我们有哪些东西要记录。这就像是我们告诉日记本，我们要写哪些事情。我们只需要输入`<strong>git add .</strong>`（注意最后那个点不要忘了啊），这样Git就会把我们所有的文件都加到日记本里。 第三步，我们要把我们的记录保存下来。这就像是我们写完日记后，要把日记本收好。我们只需要输入`<strong>git commit -m “你的提交信息”</strong>`（‘你的提交的信息’这个地方就写你对当前这个版本的命名），这样Git就会帮我们保存好这次的记录。 <strong>回滚到某个版本：</strong> 如果你发现最近的修改导致了一些问题，想要回到之前的某个版本，Git也可以帮你做到这一点。你可以通过以下步骤来回滚到某个版本： <strong>查看提交历史</strong>：首先，我们需要查看所有的提交记录，以找到我们想要回滚到的版本。可以使用命令__“git log”__来查看提交历史。 <strong>找到目标提交的ID</strong>：在提交历史中，找到你想要回滚到的那个提交的ID（一串数字和字母的组合）。（如图2） <strong>回滚到目标提交</strong>：使用命令“git checkout 提交ID”来回滚到那个版本。这样，你的代码就会回到那个提交的状态。(如图3） 说白了，为了实现这个代码回滚，记住这4个命令就够了，可以放在记事本上，随时复制粘贴。 <strong>1. `git init`：</strong> 这个命令用于在当前目录下创建一个新的Git仓库。当你开始一个新项目，或者在一个已有项目中首次使用Git进行版本控制时，你需要运行这个命令。它会在项目目录中创建一个名为`.git`的隐藏文件夹，这个文件夹包含了Git仓库的所有必要文件。 <strong>2. `git add .`：</strong> 这个命令的作用是将你当前工作目录中的所有更改（比如新文件、修改过的文件或者删除的文件）添加到Git的暂存区（staging area）。暂存区是一个准备提交的地方，你可以在这里选择哪些更改需要包含在下一次提交中。命令中的`.`代表当前目录及其所有子目录。 <strong>3. `git commit -m “你的提交信息”`：</strong> 这个命令用于将暂存区中的更改提交到本地仓库的提交历史中。`-m`参数后面跟着的是提交信息，这是对你所做更改的简短描述。每次提交都会创建一个新的快照，记录下当前项目的状态，并且这些快照会按时间顺序排列。 <strong>4. `git checkout 提交ID`：</strong> 这个命令用于将你的工作目录切换到指定的提交状态。提交ID是每次提交的唯一标识符，通常是一个长字符串，比如`a38502e3b656b84f47b58eb1ada5490703ab269b`。如果你想回滚到之前的某个版本，你需要先使用`git log`命令查看提交历史，找到你想要回滚到的提交的ID，然后使用这个命令加上那个ID来切换到那个版本。 这四个命令结合起来，就能让你在Git中初始化仓库、添加更改、提交更改以及在需要时回滚到之前的版本。 OK ，了解上面这么多就足以让你实现代码版本管理了，你再也不用担心cursor突然抽风把代码给你改坏了。 学友有余力的，可以继续往下再看看。 第四步，如果我们想要尝试一些新的东西，但是又怕弄坏了原来的代码，我们可以用Git来创建一个新的分支。这就像是我们在日记本里，开始写一个新的故事。我们只需要输入`git branch 新分支的名字`，然后输入`git checkout 新分支的名字`，这样我们就可以在新的分支上尝试新的东西了。 第五步，如果我们觉得新的分支上的东西不错，想要加到原来的代码里，我们可以用Git来合并分支。这就像是我们把新的故事加到原来的日记里。我们只需要输入`git merge 新分支的名字`，这样Git就会帮我们把新的分支上的东西加到原来的代码里。 如果在这个过程中，我们发现有冲突，也就是新的分支上的东西和原来的代码有不一样的地方，Git会帮我们解决这些冲突。 这就是我用Git来管理代码版本的简单过程。希望这个方法能帮到大家，让我们的编程之旅更加顺利。 加油！！</p>]]></content>
     
@@ -431,37 +455,11 @@
   </entry>
   
   <entry>
-    <title>【新手必读】如何学好Cursor？</title>
-    <link href="https://www.fomal.cc/posts/c327ed56.html"/>
-    <id>https://www.fomal.cc/posts/c327ed56.html</id>
-    <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.271Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="一、代码：普通人新晋获得的财富杠杆">一、代码：普通人新晋获得的财富杠杆</h2><p>要想获得财富，就必须充分利用杠杆效应。商业杠杆来自资本、劳动力和复制边际成本为零的产品（代码和媒体）。</p><p>代码和媒体是不需要许可就能使用的杠杆。这两个杠杆是新富阶层背后的杠杆。你可以创建软件和媒体，让它们在你睡觉时为你工作。</p><p>——纳瓦尔（硅谷顶级投资人，投中过Uber、Twitter等公司）</p><p>纳瓦尔的这些话被硅谷许多创业者奉为圣经，他发的那些推特也被整理成《纳瓦尔宝典》在多个国家出版。事实上，圈友们不管是否听过这个人，听过这些话。但大家大抵都是对获取被动收入充满信念和欲望的，这种获取被动收入的方式可能是用真金白银（资本）去进行股市、币圈的投资，开公司利用劳动力资源，也可能是在YouTube、抖音、小红书、公众号等平台经营自媒体。</p><p>而就像纳瓦尔所说，资本和劳动力的使用是需要门槛的，你需要完成过一定的原始积累。而对没有充足资本的普通人而言，真正无门槛可调动的杠杆就是「自媒体」，所以我们需要去写文章、做视频、录播客等等。</p><p>在AI来之前，写代码是个有着巨大的专业门槛的事情，程序员也是在上一波互联网/移动互联网浪潮中获利最多最稳定的一群人。而现在，情况发生了变化，有了Cursor等AI编程工具的加持，我们这些不会写代码的普通人到了有机会利用「代码」这个杠杆的时刻。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000227.png" alt="image"></p><h2 id="二、为什么是Cursor，为什么是现在？">二、为什么是Cursor，为什么是现在？</h2><p>好了，前面的分析让我们得到了为什么该写代码、做产品的结论。但是为什么是学Cursor，而不是其他AI工具，为什么是现在学？</p><h3 id="2-1-为什么是现在">2.1 为什么是现在</h3><p>首先，你需要理解的一件事是，目前层出不穷的AI编程工具底层基石是AI大模型的编程能力，他们一般不是新造轮子，而是用上了OpenAI的O1、GPT-4o，Anthropic的Claude 3.5 Sonnet等最强大的模型。Cursor这家公司的产品其实已经做了近两年，但是真正让他们出圈，让他们的工具能力得到巨大起飞的，则是Claude 3.5 Sonnet模型的发布，是这个模型的长上下文和超强代码理解、编写能力让AI编程的效率扩过了一个临界点。</p><p>在这个临界点之前，行业内讨论最多的AI编程产品是Github Copilot，而这基本是一个只有程序员才能上手的工具。这个临界点的跨越，让普通人有了快速使用AI编程工具去做产品的能力，这也是为什么我们认为现在普通人真正应该、且可以开始学习AI编程了。</p><h3 id="2-2-为什么是Cursor？">2.2 为什么是Cursor？</h3><p>我们选择Cursor，是因为Cursor现在是一个经过时间迭代，多方验证的「足够好」的选择。Cursor获得过OpenAI的融资，并且得到了前OpenAI创始成员之一Andrej Karpathy的推荐和背书。Cursor已经推出了两年时间，这两年的产品经验，也让Cursor在帮助初学者上手和资深用户深入做项目之前得到了相当好的平衡。而且你由此能看出他们不是顶着热点上线，玩票性质，随时可能跑路的产品。感兴趣的话，你也可以通过这篇文章深入了解这个团队对AI编程的思考：<a href="https://mp.weixin.qq.com/s/9kD3Po6Xb2ms0ppkPF2VuQ">https://mp.weixin.qq.com/s/9kD3Po6Xb2ms0ppkPF2VuQ</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000228.png" alt="image"></p><h3 id="2-3-你也可以试试别的">2.3 你也可以试试别的</h3><p>事实上，现在市场上还有相当多的AI编程工具你可以进行选择，其中有可以和Cursor组合使用，前端能力超强的v0.dev 、 bolt.new ，也有Cursor直接的竞争对手Github Copilot、Cline、Windsurf等，国内主流的大模型厂商也开始涉足AI编程工具这一赛道。这些你都可以尝试，尤其是最近Windsurf在我们社群内的口碑极佳。但是我对你唯一的建议是：<strong>成为AI编程爱好者，去创造产品；不要浅尝辄止，成了AI编程工具的爱好者。</strong></p><h2 id="三、没有编程基础能不能学？">三、没有编程基础能不能学？</h2><p>这是我遇见的最常见的新手问题，口说无凭，所以我在自己的YouTube/B站频道（AI进化论-花生）和我们星球中都多次分享了自己在缺乏编程基础的情况下，做出了哪些产品，希望带给大家一些信心。</p><h3 id="3-1-我的Cursor之旅">3.1 我的Cursor之旅</h3><p>很多人会对「编程」对「代码」带有一种天然的恐惧，不知从何开始。我作为从0起步的过来人，完全能理解这件事。其中最大的难点就是：你不知道自己不知道什么。</p><p>但是你需要相信的是，你可以。在8月底开始使用Cursor之前，我唯一的编程经验是，去年3月GPT-4发布后，我非常兴奋地觉得普通人创造开发产品的时刻来了。那个时期的我也经历了一句话写出贪吃蛇、flappy bird等小游戏的兴奋。可...然后呢？</p><p>没有然后了，因为GPT-4的能力，加上对话式AI不适合多文件编程和测试的特性，对普通人来说，要开发任何一个超过一个代码文件的项目都是困难的事。我花了一周时间看《Python：从入门到精通》这本书，带着还挺自信的学习能力，我最后在做出了几个Chrome插件后就草草收场了。因为简单的Chrome插件一般由3-5个代码文件组成，差不多到了那个阶段无基础小白可理解且可编程的极限了。</p><p>所以，就是在这样的经验了，我从8月29号开始重新启用Cursor编程，我做出了不下10个Chrome插件，10+个网站，5个app，以及不计其数的帮自己更高效完成日常工作的自动化python脚本。</p><h3 id="3-2-其他行业的案例">3.2 其他行业的案例</h3><p>如果你还是没有信心的话，我在我们星球内和YouTube/b站还看到了一大堆小白从0开始编程的经历，比如：</p><ol><li>@aLfR*_IN 一个清华法学院学生 ，做出了能帮助校园内师生选购电瓶车，解答校园内电瓶车骑行规则问题的网站：<a href="https://t.zsxq.com/ntkA2">https://t.zsxq.com/ntkA2</a></li><li>@Samuel Cha* 一个新加坡行销企业的负责人，用Cursor帮大量客户做了官网和活动落地页，相信这能成为他相比同行的独特服务优势。</li><li>一个专利律师，做出了能帮助客户和同行查询专利文书的app。</li></ol><p>还有，我觉得很神秘，又觉得离谱强的一位企业负责人，因为公司经济困难，被迫自己上手开发数万会员使用的管理系统：</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000229.png" alt="image"></p><h2 id="四、怎么学AI编程？">四、怎么学AI编程？</h2><h3 id="4-1-心理准备">4.1 心理准备</h3><h4 id="4-1-1-对困难有预期">4.1.1 对困难有预期</h4><p>现在0基础完成是可以开始学习AI编程的，你也能看到大量的一句话生成游戏，5分钟开发网站、1小时完成app设计的案例，这些都是真的，AI编程确实把写代码这件事变得如此快速和简单。</p><p>但你依然需要知道的现实是，当你要做出一件真正有价值的产品时，摆在你面前的依然有无数的困难。你会接触很多你不理解的代码语言（什么Python、React、Vue、Next.js等等），你将不得不在你电脑上一次次安装这个环境，那个docker，要将做出来的网站部署上线还要涉及到了解前端/后端服务器、备案等你可能从未接触过的概念。</p><p>甚至，在你入门之后，真正开始开发时，你将有80%以上的时间是在和AI一起解决bug，而不是做新功能和写代码。但是我想告诉你这很正常。</p><p>现在大厂内资深程序员的大多数时间也是在解bug，维护代码屎山，而非在写代码。但有了AI的加持，你面对这些困难时的处理能力、处理速度、上手开发任何一个产品的速度都将比3年前计算机专业的学生快很多。</p><p>我们没什么可抱怨的。</p><h4 id="4-1-2-破除恐惧">4.1.2 破除恐惧</h4><p>许多人对编程的一部分恐惧是，你不知道自己不知道什么，你都不知道该从何发问，要面对的代码究竟是什么东西，自己究竟有哪些不知道的。</p><p>对此，我有三个你可以试试的破除恐惧的方式：</p><p>1. 找一本通用的代码语言的教材，比如《Python：从入门到实践》，你不需要真的完整学习理解怎么写这些代码，但你可以通过通读，浏览目录的方式，去对编程、对做一个产品需要了解什么行程基础认知；</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000230.png" alt="image"></p><p>2. 我特意做了一个包含很多编程语言的教程网站，你可以大致看看分别有哪些编程语言，他们适用于什么哪些项目，他们大致的构成是什么样的：<a href="https://www.coderwithai.top/">https://www.coderwithai.top/</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000231.png" alt="image"></p><p>3. 到YouTube和B站看一些教学视频，你可以通过直观查看我，或者其他人是如何使用这个工具的去对Cursor，对代码形成一些基础的感觉。我们星球内的专属教学视频也会逐步增加。</p><h3 id="4-2-你需要有基础的使用AI的能力">4.2 你需要有基础的使用AI的能力</h3><h4 id="4-2-1-AI的能力特点">4.2.1 AI的能力特点</h4><p>在学习AI编程时，相比编程基础，更多人需要担心的其实是自己使用AI的能力。虽然你完全可以使用自然语言编程了，但这种自然语言的交流，也是需要在你理解AI特点的情况下，才能让AI这个「实习生」为你所用。以下是几个我认为你在使用Cursor编程时，最需要理解的AI特点：</p><ol><li>__随机：__大型语言模型的本质是预测下一个token，并且在预测时带有一定的随机性，所以你在跟随我们的教程练习时，发现生成的结果和我们的示例不同这是很常见的情况，并且同一个目标，获得两个完全不同的解决方案也很正常。如果你想要减少随机性，那就通过更明确的要求去收敛它的预测。比如当你只是要求制作一个像ChatGPT的AI对话网站时，它可能给你使用HTML/CSS、React、Vue等各种不同类型的框架，但是新手更容易通过HTML/CSS上手，所以你可以要求它使用对应的代码语言。</li><li>__平庸：__因为LLM是由大量互联网数据，通过训练预测下一个token而来，所以他LLM不想要成功，它只想从善如流为你提供和互联网训练预料一样的平均结果。但是，你可以要求成功。比如你对app设计不满意，你可以要求Cursor按苹果设计师的标准为你提供设计，你也可以提供任何你偏好的设计师或者网站风格，对他提出要求。</li><li>__上下文限制：__Cursor目前接入的模型中，开启Long Context模式后，最长可以有200K上下文的长度，这对于平时的对话可能绰绰有余，但是一个项目动辄几十上百个代码文件，每个代码文件有几百上千行代码的，很容易超出AI上下文的限制，带来幻觉。所以你需要通过及时让Cursor将项目进展记录到特定文档中（<a href="http://xn--readme-hh4k.md">如readme.md</a>），在项目开始时 @codebase 等方式为Cursor带来你们在做什么项目的必要记忆。</li><li>__系统一思考：__正常情况下，Cursor总会直接满足你的要求，你要它写代码它就写代码，要它改bug它就上手改bug。这也导致很多人会吐槽Cursor改bug非常困难，它总是按下葫芦起了瓢，常常同一个错误多次出现，而无法完成一个bug的修改。其实，这个时候你可以想想人类，想想资深程序员是如何工作的。他们并不是“嘿，这里有个bug，这里有段代码报错，那我把这里直接改写一下好了”。而是，他们会去理解更丰富的上下文，会去找关联代码，会去寻求不同的解决思路，然后选择一个更好的解决方案去执行，去做进一步的测试和验证。 AI也该如此，但bug反复出现，你知道那是一个没法简单凭系统一直觉解决的问题时，你该让AI停下来，用它的系统二去做思考：问题究竟是什么-&gt;有哪些解决思路-&gt;对比来看不同解决思路的优缺点为何-&gt;我该选择哪个解决方案。我多次实践下来，得到了一个不错的Prompt（“请一步步思考，仔细审查现在的报错提醒和相关代码，分析发生这个问题的原因是什么，并给我提供三个最solid地解决方案，不要急着改代码。”）通过这种让Cursor思考+提供多套解决方案的方式实现思维链，相比直接改代码，效果其实有了相当大的提升。</li></ol><p><img src="https://xiao666.sbs/PicGo/IMG_000000232.png" alt="image"></p><h4 id="4-2-2-Prompt技巧资源推荐">4.2.2 Prompt技巧资源推荐</h4><p>在和ChatGPT等对话式AI交流时的Prompt技巧，在使用Cursor AI编程时其实也完全适用。OpenAI和Anthropic官方都为大家准备了Prompt Engineering的教程。</p><ol><li>OpenAI Cookbook：<a href="https://platform.openai.com/docs/guides/prompt-engineering">https://platform.openai.com/docs/guides/prompt-engineering</a></li><li>Anthropic Prompt Engineering Overview：<a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview">https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview</a></li><li>我在B站也有一期超30万播放的关于ChatGPT使用技巧的教学：<a href="https://www.bilibili.com/video/BV1a8411Q73z">https://www.bilibili.com/video/BV1a8411Q73z/</a></li></ol><h3 id="4-3-随时发布，先完成，再完美。">4.3 随时发布，先完成，再完美。</h3><p>先完成再完美这个理念我已经在星球内和我们的微信群都说过无数遍了。但这确实是学习AI编程最重要的事，我如何强调都不为过。</p><p>第一步，建议你先照猫画虎，完全跟着星球内的图文和视频教程，跟着一个个Chrome插件、网页开发的项目，尝试跑通流程。这个过程中你将开始熟悉Cursor，熟悉代码是怎么一回事，遇到问题的话也很容易在社群内找到有相似经历的圈友进行求助和了解；</p><p>第二步，你可以想想自己和身边同事/朋友有哪些未解决的困难，你实际的工作中有哪些部分是可以通过产品化的方式提效的。带着这些真实的小需求，去尝试做你的第一个产品；</p><p>最后，我想告诉各位的事，最近的「小猫补光灯」App的爆火让不少人认识了我，圈友们很多大概也看了我如何1小时用Cursor写出这个爆款app的帖子，甚至有不少圈友估计都是因为这个项目而加入我的星球的。</p><p>但很多人不知道的是，学习使用Cursor的两个月内，我已经做了不下30款工具产品。有段时间，我经常会一天发布一个产品，这个产品可能满是bug，但是没关系，做产品的过程我很快乐，发布后获得的正反馈也很愉悦。</p><p>我在10月31号时写下了下面这段话，然后，半个多月后，我这么个一行代码不会写的半吊子开发已经是拥有10万下载量的App「小猫补光灯」的开发者了，正是发布这些垃圾的过程让我前进和成长的。与君共勉。</p><p>如果说学Cursor，开始AI编程有什么真正的诀窍的话，那就是：</p><p>先做出来，发布出来再说，不要怕不完美。</p><p>现在有Claude和GPT加持的AI编程工具，让大多数第一次有机会去真正完成一个由自己构建的产品。毕竟，在此之前，不管你是程序员还是产品经理，绝大多数人在此之前都没有完整做过一个产品。</p><p>如果你是产品经理的话，你的工作可能是画画原型，写写PRD，界面设计和代码工作都不在你手上。甚至以我之前在美团和阿里接触到的产品经理来说，他甚至不做“产品”本身的工作，只负责一个功能模块的一小点的细节优化和设计。</p><p>而对于程序员，也是类似的道理，前端的只做前端，后端只做后端，数据库的只管数据库。而我之前接触的程序员也大多不了解业务逻辑，不知道自己参与的产品用户群体是谁，其他模块的实现逻辑是什么样的，只是去用自己的能力忠实的实现产品的需求。</p><p>在AI的加持下，只要别有害怕、恐惧的情绪，你将第一次获得真真正正的去实现自己的想法的权利。</p><p>你需要产品经理，Claude和ChatGPT可以是产品经理。</p><p>你需要设计师，Claude、ChatGPT、Ideogram、Midjourney、Flux.1、v0.dev都可以是设计师。</p><p>你需要程序员，那更不用说了，Claude、ChatGPT精通所有编程语言。</p><p>你唯一需要担心的只是，你是否真的有想法，你是否真的想清楚了你想要去创造什么。</p><p>也许你没有想清楚，那也没问题，你可以边做边思考。前几天Paul Graham发了篇文章，认为有了AI之后，人的写作能力会进一步退化，因为写作是需要清晰的思考的，你想不清楚，你就没办法把东西写清楚。很多人会恐惧在写作过程中发现自己大脑中一团浆糊的状态，因此对此心生恐惧。而有了AI之后，大多数人确实是更不需要写作了。</p><p>但问题是，不写作的话，你怎么思考呢？</p><p>写作不是对思考的记录，而是思考本身。</p><p>同样的，去创造去完成一个产品的过程，也是你思考的过程。你没办法完全想清楚了才行动。你需要行动你才有机会想清楚。</p><p>而且，在做完之后一定要快速发布。只要完成了发布，你就等于让一个东西从你的大脑中解放了。很多人会想着先把东西做得更好更完美再发布，我想告诉你，千万不要！</p><p>完美是完成最大的敌人。世界上没有发布之后就不需要迭代的产品。</p><p>许多人之所以不愿意早早发布，其实是有些恐惧心理在其中的，担心其他人觉得不够好，担心这是否会让人觉得自己的水平不行。我真的建议你跟自己脑中的这些恶魔做些斗争。</p><p>举个例子，我发布的第一期关于Cursor的教学视频是做一个很简单在网页中生成二维码的Chrome插件，有不少人在底下评论，就做个这？</p><p>对的，那时候的我，只能做个那东西。但是我现在做了多个网站、上架了app，我相信评论我的那个人肯定没做到。而且我在做这些东西的过程中感受到了太多的心流和快乐，这个过程本身就是巨大的奖赏了。</p><p>而且我非常认同一个关于什么时候该发布自己的产品的观点，那就是如果你发布的产品的第一个版本不让你感到尴尬的话，那就说明你发布得太晚了。</p><p>所以，那个会让你尴尬的产品，你打算什么时候发布？</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;一、代码：普通人新晋获得的财富杠杆&quot;&gt;一、代码：普通人新晋获得的财富杠杆&lt;/h2&gt;
-&lt;p&gt;要想获得财富，就必须充分利用杠杆效应。商业杠杆来自资本、劳动力和复制边际成本为零的产品（代码和媒体）。&lt;/p&gt;
-&lt;p&gt;代码和媒体是不需要许可就能使用的杠杆。这两个杠杆是新富阶</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AI编程" scheme="https://www.fomal.cc/tags/AI%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>【新人必读】微信社群&amp;答疑说明</title>
     <link href="https://www.fomal.cc/posts/be8a1ae6.html"/>
     <id>https://www.fomal.cc/posts/be8a1ae6.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.268Z</updated>
+    <updated>2025-02-07T11:52:01.602Z</updated>
     
     <content type="html"><![CDATA[<h3 id="一、加入“Cursor学习小组”"><strong>一、加入“Cursor学习小组”</strong></h3><p>加入星球后，记得添加我的微信：alchain 注明星球编号信息，让我拉你入“Cursor学习小组“微信群。</p><p>要做出好产品，AI编程的学习还是个相对漫长的过程，在这个群内感受学习的氛围，交流你遇到的问题，能帮你在学习这条路上走得更远。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000225.png" alt="image"><img src="https://xiao666.sbs/PicGo/IMG_000000226.png" alt="image"></p><h3 id="二、关于答疑"><strong>二、关于答疑</strong></h3><p>遇到问题，你有两个提问渠道，包括：</p><p><strong>1）星球内的“提问”功能</strong></p><p><strong>2）在微信群中提你的问题</strong></p><p>只要是我有能力解答的，我都会解答。我不能解答的，还有其他圈友有可能有经验去解答你的问题。但需要说明的是，我不接受微信私聊的提问。</p><p>但是为了保证交流质量，我强烈建议你在提问前先用以下三个渠道解答你的问题：</p><p>1）如果是关于Cursor使用的问题，你可以去向我们的星球专属GPTs「Cursor101」提问，它7*24小时在线，而且回答效果出乎意料地好：<a href="https://chatgpt.com/g/g-EhEcLTH48-cursor101">https://chatgpt.com/g/g-EhEcLTH48-cursor101</a></p><p>2）如果是关于代码的问题，是你遇到的bug，你完全可以先直接问Cursor</p><p>3）你可以先查看星球内的学习资料，目前沉淀的资料已经能帮助你解答不少基础问题</p><p>当你确实通过以上三个渠道解答不了，需要在微信群或星球内提问时，注意一个提问小技巧，这对于在微信群内和群友交流以及学习AI都非常重要：你应当在提问时充分表述你在做的事情的上下文背景信息，你尝试过哪些解决方案，你现在依然遇到的问题是什么？</p>]]></content>
     
@@ -483,18 +481,20 @@
   </entry>
   
   <entry>
-    <title>【新手必读】学习AI编程的7个建议</title>
-    <link href="https://www.fomal.cc/posts/57efe3a4.html"/>
-    <id>https://www.fomal.cc/posts/57efe3a4.html</id>
+    <title>【新手必读】如何学好Cursor？</title>
+    <link href="https://www.fomal.cc/posts/c327ed56.html"/>
+    <id>https://www.fomal.cc/posts/c327ed56.html</id>
     <published>2025-02-07T11:39:29.000Z</published>
-    <updated>2025-02-07T11:40:41.276Z</updated>
+    <updated>2025-02-07T11:52:01.600Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://wx.zsxq.com/tags/Cursor%E5%85%A5%E9%97%A8/88845455581582">#Cursor入门 </a>最近星球内来了些新朋友，很多人估计还抱着犹豫和好奇的心态在判读自己能不能、该不该学习AI编程。 以下是我最近做了些新产品，和很多人交流之后，重新整理的想法，作为对一些问题的解答和建议： 1、无代码基础可以学吗？可以学，起步肯定比懂编程的人慢一些，但是没关系，现在有Claude 3.5 sonnet模型加持的许多编程工具（Cursor、Windsurf等）都已经超过了可用性的临界点，你依然会遇到很多问题，但你能比以往任何时候都快10倍、100倍学会。 2、无代码基础需要回头看编程书吗？不需要，真的别揪着那些细枝末节，括号怎么写，怎么空格缩紧，这些东西能耗费你所有的耐心，没必要。但是我很推荐你可以买一两本python、javascript等常用编程语言的教科书，看目录，形成大概的理念的理解。比所有繁琐但其实很简单的事交给AI。 3、英语不好能学吗？最好别太不好了，所有的操作界面和自然语言对话用中文都可以，但是代码文件的名称和各种变量名通常是英文，如果一点都读不懂，那理解压力会大不少，但好在需要的基础不多。 4、AI编程能赚钱吗？谁适合学？ AI编程能让你获得纳瓦尔所说的“代码杠杆”，相比现在大多数没有资产的人只能使用“媒体”杠杆去做自媒体，用产品获取被动收入会是个更广阔更开放的赛道，你是有可能通过AI编程赚钱，甚至赚很多钱的。 但...这有个非常重要的但是...假设AI编程不能赚钱的话，你学吗？ 因为要靠产品赚钱依赖的能力和你需要跨过的门槛要比自媒体难很多，首先学AI编程本身是比学写内容稍微有门槛一些的，没代码经验当然可以学，你遇到的所有难题都可以问AI，但是你想要获得正反馈的话，还需要你发现需求和营销分发产品的能力，你需要克服的困难是很多的。所以，如果你只是想赚钱的话，不妨试试别的赛道，不一定要给自己找苦吃。 但是如果不赚钱你也愿意学，你能享受创作过程带来的愉悦的话，那我前面所说的所有东西都将不是障碍，而是你游戏过程中非常有趣的关卡。先做10个、20个让自己开心的垃圾产品再说，这个过程中你能学到的东西会非常非常多。 5、AI编程对代码能力的要求没那么高，但对于你理解AI的能力和边界依然有相当的要求，所以能用好AI编程的一个前提是你能用好AI。问一问自己，现在你所有的工作中，有超过20%的成分有AI参与吗？如果没有的话，说明你用AI的能力大概率不过关。 6、一个心理建设的准备，做不好不是AI的问题，是你自己的问题。是的，现在AI还有很多缺陷，有时候修bug困难也是真的。但大多数人还远远没有触及AI编程能力的边界，你那一两句话缺乏上下文背景，缺乏对问题思考的提示词才是造成问题的关键。你需要抱着这个问题更可能在自己身上的心态，才能精进使用AI的技能。 7、现在这么多AI编程工具，怎么选？规避所有国产AI编程产品，现在AI编程能力实现可用临界点跳跃的关键点是，且仅是“Claude 3.5 sonnet“，不要选择任何没接入这个模型的AI工具。你可以使用v0.dev、bolt.new开始启动简单的项目，为自己获得最快速的一句话生成游戏、网页的正反馈。但....稍微难一些...或者非网页的项目，你还是需要回到Cursor、Windsurf这样的产品中来。至于这俩工具谁好，不重要，随便选一个就可以了，当AI编程的爱好者，别当AI编程工具的爱好者。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="一、代码：普通人新晋获得的财富杠杆">一、代码：普通人新晋获得的财富杠杆</h2><p>要想获得财富，就必须充分利用杠杆效应。商业杠杆来自资本、劳动力和复制边际成本为零的产品（代码和媒体）。</p><p>代码和媒体是不需要许可就能使用的杠杆。这两个杠杆是新富阶层背后的杠杆。你可以创建软件和媒体，让它们在你睡觉时为你工作。</p><p>——纳瓦尔（硅谷顶级投资人，投中过Uber、Twitter等公司）</p><p>纳瓦尔的这些话被硅谷许多创业者奉为圣经，他发的那些推特也被整理成《纳瓦尔宝典》在多个国家出版。事实上，圈友们不管是否听过这个人，听过这些话。但大家大抵都是对获取被动收入充满信念和欲望的，这种获取被动收入的方式可能是用真金白银（资本）去进行股市、币圈的投资，开公司利用劳动力资源，也可能是在YouTube、抖音、小红书、公众号等平台经营自媒体。</p><p>而就像纳瓦尔所说，资本和劳动力的使用是需要门槛的，你需要完成过一定的原始积累。而对没有充足资本的普通人而言，真正无门槛可调动的杠杆就是「自媒体」，所以我们需要去写文章、做视频、录播客等等。</p><p>在AI来之前，写代码是个有着巨大的专业门槛的事情，程序员也是在上一波互联网/移动互联网浪潮中获利最多最稳定的一群人。而现在，情况发生了变化，有了Cursor等AI编程工具的加持，我们这些不会写代码的普通人到了有机会利用「代码」这个杠杆的时刻。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000227.png" alt="image"></p><h2 id="二、为什么是Cursor，为什么是现在？">二、为什么是Cursor，为什么是现在？</h2><p>好了，前面的分析让我们得到了为什么该写代码、做产品的结论。但是为什么是学Cursor，而不是其他AI工具，为什么是现在学？</p><h3 id="2-1-为什么是现在">2.1 为什么是现在</h3><p>首先，你需要理解的一件事是，目前层出不穷的AI编程工具底层基石是AI大模型的编程能力，他们一般不是新造轮子，而是用上了OpenAI的O1、GPT-4o，Anthropic的Claude 3.5 Sonnet等最强大的模型。Cursor这家公司的产品其实已经做了近两年，但是真正让他们出圈，让他们的工具能力得到巨大起飞的，则是Claude 3.5 Sonnet模型的发布，是这个模型的长上下文和超强代码理解、编写能力让AI编程的效率扩过了一个临界点。</p><p>在这个临界点之前，行业内讨论最多的AI编程产品是Github Copilot，而这基本是一个只有程序员才能上手的工具。这个临界点的跨越，让普通人有了快速使用AI编程工具去做产品的能力，这也是为什么我们认为现在普通人真正应该、且可以开始学习AI编程了。</p><h3 id="2-2-为什么是Cursor？">2.2 为什么是Cursor？</h3><p>我们选择Cursor，是因为Cursor现在是一个经过时间迭代，多方验证的「足够好」的选择。Cursor获得过OpenAI的融资，并且得到了前OpenAI创始成员之一Andrej Karpathy的推荐和背书。Cursor已经推出了两年时间，这两年的产品经验，也让Cursor在帮助初学者上手和资深用户深入做项目之前得到了相当好的平衡。而且你由此能看出他们不是顶着热点上线，玩票性质，随时可能跑路的产品。感兴趣的话，你也可以通过这篇文章深入了解这个团队对AI编程的思考：<a href="https://mp.weixin.qq.com/s/9kD3Po6Xb2ms0ppkPF2VuQ">https://mp.weixin.qq.com/s/9kD3Po6Xb2ms0ppkPF2VuQ</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000228.png" alt="image"></p><h3 id="2-3-你也可以试试别的">2.3 你也可以试试别的</h3><p>事实上，现在市场上还有相当多的AI编程工具你可以进行选择，其中有可以和Cursor组合使用，前端能力超强的v0.dev 、 bolt.new ，也有Cursor直接的竞争对手Github Copilot、Cline、Windsurf等，国内主流的大模型厂商也开始涉足AI编程工具这一赛道。这些你都可以尝试，尤其是最近Windsurf在我们社群内的口碑极佳。但是我对你唯一的建议是：<strong>成为AI编程爱好者，去创造产品；不要浅尝辄止，成了AI编程工具的爱好者。</strong></p><h2 id="三、没有编程基础能不能学？">三、没有编程基础能不能学？</h2><p>这是我遇见的最常见的新手问题，口说无凭，所以我在自己的YouTube/B站频道（AI进化论-花生）和我们星球中都多次分享了自己在缺乏编程基础的情况下，做出了哪些产品，希望带给大家一些信心。</p><h3 id="3-1-我的Cursor之旅">3.1 我的Cursor之旅</h3><p>很多人会对「编程」对「代码」带有一种天然的恐惧，不知从何开始。我作为从0起步的过来人，完全能理解这件事。其中最大的难点就是：你不知道自己不知道什么。</p><p>但是你需要相信的是，你可以。在8月底开始使用Cursor之前，我唯一的编程经验是，去年3月GPT-4发布后，我非常兴奋地觉得普通人创造开发产品的时刻来了。那个时期的我也经历了一句话写出贪吃蛇、flappy bird等小游戏的兴奋。可...然后呢？</p><p>没有然后了，因为GPT-4的能力，加上对话式AI不适合多文件编程和测试的特性，对普通人来说，要开发任何一个超过一个代码文件的项目都是困难的事。我花了一周时间看《Python：从入门到精通》这本书，带着还挺自信的学习能力，我最后在做出了几个Chrome插件后就草草收场了。因为简单的Chrome插件一般由3-5个代码文件组成，差不多到了那个阶段无基础小白可理解且可编程的极限了。</p><p>所以，就是在这样的经验了，我从8月29号开始重新启用Cursor编程，我做出了不下10个Chrome插件，10+个网站，5个app，以及不计其数的帮自己更高效完成日常工作的自动化python脚本。</p><h3 id="3-2-其他行业的案例">3.2 其他行业的案例</h3><p>如果你还是没有信心的话，我在我们星球内和YouTube/b站还看到了一大堆小白从0开始编程的经历，比如：</p><ol><li>@aLfR*_IN 一个清华法学院学生 ，做出了能帮助校园内师生选购电瓶车，解答校园内电瓶车骑行规则问题的网站：<a href="https://t.zsxq.com/ntkA2">https://t.zsxq.com/ntkA2</a></li><li>@Samuel Cha* 一个新加坡行销企业的负责人，用Cursor帮大量客户做了官网和活动落地页，相信这能成为他相比同行的独特服务优势。</li><li>一个专利律师，做出了能帮助客户和同行查询专利文书的app。</li></ol><p>还有，我觉得很神秘，又觉得离谱强的一位企业负责人，因为公司经济困难，被迫自己上手开发数万会员使用的管理系统：</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000229.png" alt="image"></p><h2 id="四、怎么学AI编程？">四、怎么学AI编程？</h2><h3 id="4-1-心理准备">4.1 心理准备</h3><h4 id="4-1-1-对困难有预期">4.1.1 对困难有预期</h4><p>现在0基础完成是可以开始学习AI编程的，你也能看到大量的一句话生成游戏，5分钟开发网站、1小时完成app设计的案例，这些都是真的，AI编程确实把写代码这件事变得如此快速和简单。</p><p>但你依然需要知道的现实是，当你要做出一件真正有价值的产品时，摆在你面前的依然有无数的困难。你会接触很多你不理解的代码语言（什么Python、React、Vue、Next.js等等），你将不得不在你电脑上一次次安装这个环境，那个docker，要将做出来的网站部署上线还要涉及到了解前端/后端服务器、备案等你可能从未接触过的概念。</p><p>甚至，在你入门之后，真正开始开发时，你将有80%以上的时间是在和AI一起解决bug，而不是做新功能和写代码。但是我想告诉你这很正常。</p><p>现在大厂内资深程序员的大多数时间也是在解bug，维护代码屎山，而非在写代码。但有了AI的加持，你面对这些困难时的处理能力、处理速度、上手开发任何一个产品的速度都将比3年前计算机专业的学生快很多。</p><p>我们没什么可抱怨的。</p><h4 id="4-1-2-破除恐惧">4.1.2 破除恐惧</h4><p>许多人对编程的一部分恐惧是，你不知道自己不知道什么，你都不知道该从何发问，要面对的代码究竟是什么东西，自己究竟有哪些不知道的。</p><p>对此，我有三个你可以试试的破除恐惧的方式：</p><p>1. 找一本通用的代码语言的教材，比如《Python：从入门到实践》，你不需要真的完整学习理解怎么写这些代码，但你可以通过通读，浏览目录的方式，去对编程、对做一个产品需要了解什么行程基础认知；</p><p><img src="https://xiao666.sbs/PicGo/IMG_000000230.png" alt="image"></p><p>2. 我特意做了一个包含很多编程语言的教程网站，你可以大致看看分别有哪些编程语言，他们适用于什么哪些项目，他们大致的构成是什么样的：<a href="https://www.coderwithai.top/">https://www.coderwithai.top/</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000000231.png" alt="image"></p><p>3. 到YouTube和B站看一些教学视频，你可以通过直观查看我，或者其他人是如何使用这个工具的去对Cursor，对代码形成一些基础的感觉。我们星球内的专属教学视频也会逐步增加。</p><h3 id="4-2-你需要有基础的使用AI的能力">4.2 你需要有基础的使用AI的能力</h3><h4 id="4-2-1-AI的能力特点">4.2.1 AI的能力特点</h4><p>在学习AI编程时，相比编程基础，更多人需要担心的其实是自己使用AI的能力。虽然你完全可以使用自然语言编程了，但这种自然语言的交流，也是需要在你理解AI特点的情况下，才能让AI这个「实习生」为你所用。以下是几个我认为你在使用Cursor编程时，最需要理解的AI特点：</p><ol><li>__随机：__大型语言模型的本质是预测下一个token，并且在预测时带有一定的随机性，所以你在跟随我们的教程练习时，发现生成的结果和我们的示例不同这是很常见的情况，并且同一个目标，获得两个完全不同的解决方案也很正常。如果你想要减少随机性，那就通过更明确的要求去收敛它的预测。比如当你只是要求制作一个像ChatGPT的AI对话网站时，它可能给你使用HTML/CSS、React、Vue等各种不同类型的框架，但是新手更容易通过HTML/CSS上手，所以你可以要求它使用对应的代码语言。</li><li>__平庸：__因为LLM是由大量互联网数据，通过训练预测下一个token而来，所以他LLM不想要成功，它只想从善如流为你提供和互联网训练预料一样的平均结果。但是，你可以要求成功。比如你对app设计不满意，你可以要求Cursor按苹果设计师的标准为你提供设计，你也可以提供任何你偏好的设计师或者网站风格，对他提出要求。</li><li>__上下文限制：__Cursor目前接入的模型中，开启Long Context模式后，最长可以有200K上下文的长度，这对于平时的对话可能绰绰有余，但是一个项目动辄几十上百个代码文件，每个代码文件有几百上千行代码的，很容易超出AI上下文的限制，带来幻觉。所以你需要通过及时让Cursor将项目进展记录到特定文档中（<a href="http://xn--readme-hh4k.md">如readme.md</a>），在项目开始时 @codebase 等方式为Cursor带来你们在做什么项目的必要记忆。</li><li>__系统一思考：__正常情况下，Cursor总会直接满足你的要求，你要它写代码它就写代码，要它改bug它就上手改bug。这也导致很多人会吐槽Cursor改bug非常困难，它总是按下葫芦起了瓢，常常同一个错误多次出现，而无法完成一个bug的修改。其实，这个时候你可以想想人类，想想资深程序员是如何工作的。他们并不是“嘿，这里有个bug，这里有段代码报错，那我把这里直接改写一下好了”。而是，他们会去理解更丰富的上下文，会去找关联代码，会去寻求不同的解决思路，然后选择一个更好的解决方案去执行，去做进一步的测试和验证。 AI也该如此，但bug反复出现，你知道那是一个没法简单凭系统一直觉解决的问题时，你该让AI停下来，用它的系统二去做思考：问题究竟是什么-&gt;有哪些解决思路-&gt;对比来看不同解决思路的优缺点为何-&gt;我该选择哪个解决方案。我多次实践下来，得到了一个不错的Prompt（“请一步步思考，仔细审查现在的报错提醒和相关代码，分析发生这个问题的原因是什么，并给我提供三个最solid地解决方案，不要急着改代码。”）通过这种让Cursor思考+提供多套解决方案的方式实现思维链，相比直接改代码，效果其实有了相当大的提升。</li></ol><p><img src="https://xiao666.sbs/PicGo/IMG_000000232.png" alt="image"></p><h4 id="4-2-2-Prompt技巧资源推荐">4.2.2 Prompt技巧资源推荐</h4><p>在和ChatGPT等对话式AI交流时的Prompt技巧，在使用Cursor AI编程时其实也完全适用。OpenAI和Anthropic官方都为大家准备了Prompt Engineering的教程。</p><ol><li>OpenAI Cookbook：<a href="https://platform.openai.com/docs/guides/prompt-engineering">https://platform.openai.com/docs/guides/prompt-engineering</a></li><li>Anthropic Prompt Engineering Overview：<a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview">https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview</a></li><li>我在B站也有一期超30万播放的关于ChatGPT使用技巧的教学：<a href="https://www.bilibili.com/video/BV1a8411Q73z">https://www.bilibili.com/video/BV1a8411Q73z/</a></li></ol><h3 id="4-3-随时发布，先完成，再完美。">4.3 随时发布，先完成，再完美。</h3><p>先完成再完美这个理念我已经在星球内和我们的微信群都说过无数遍了。但这确实是学习AI编程最重要的事，我如何强调都不为过。</p><p>第一步，建议你先照猫画虎，完全跟着星球内的图文和视频教程，跟着一个个Chrome插件、网页开发的项目，尝试跑通流程。这个过程中你将开始熟悉Cursor，熟悉代码是怎么一回事，遇到问题的话也很容易在社群内找到有相似经历的圈友进行求助和了解；</p><p>第二步，你可以想想自己和身边同事/朋友有哪些未解决的困难，你实际的工作中有哪些部分是可以通过产品化的方式提效的。带着这些真实的小需求，去尝试做你的第一个产品；</p><p>最后，我想告诉各位的事，最近的「小猫补光灯」App的爆火让不少人认识了我，圈友们很多大概也看了我如何1小时用Cursor写出这个爆款app的帖子，甚至有不少圈友估计都是因为这个项目而加入我的星球的。</p><p>但很多人不知道的是，学习使用Cursor的两个月内，我已经做了不下30款工具产品。有段时间，我经常会一天发布一个产品，这个产品可能满是bug，但是没关系，做产品的过程我很快乐，发布后获得的正反馈也很愉悦。</p><p>我在10月31号时写下了下面这段话，然后，半个多月后，我这么个一行代码不会写的半吊子开发已经是拥有10万下载量的App「小猫补光灯」的开发者了，正是发布这些垃圾的过程让我前进和成长的。与君共勉。</p><p>如果说学Cursor，开始AI编程有什么真正的诀窍的话，那就是：</p><p>先做出来，发布出来再说，不要怕不完美。</p><p>现在有Claude和GPT加持的AI编程工具，让大多数第一次有机会去真正完成一个由自己构建的产品。毕竟，在此之前，不管你是程序员还是产品经理，绝大多数人在此之前都没有完整做过一个产品。</p><p>如果你是产品经理的话，你的工作可能是画画原型，写写PRD，界面设计和代码工作都不在你手上。甚至以我之前在美团和阿里接触到的产品经理来说，他甚至不做“产品”本身的工作，只负责一个功能模块的一小点的细节优化和设计。</p><p>而对于程序员，也是类似的道理，前端的只做前端，后端只做后端，数据库的只管数据库。而我之前接触的程序员也大多不了解业务逻辑，不知道自己参与的产品用户群体是谁，其他模块的实现逻辑是什么样的，只是去用自己的能力忠实的实现产品的需求。</p><p>在AI的加持下，只要别有害怕、恐惧的情绪，你将第一次获得真真正正的去实现自己的想法的权利。</p><p>你需要产品经理，Claude和ChatGPT可以是产品经理。</p><p>你需要设计师，Claude、ChatGPT、Ideogram、Midjourney、Flux.1、v0.dev都可以是设计师。</p><p>你需要程序员，那更不用说了，Claude、ChatGPT精通所有编程语言。</p><p>你唯一需要担心的只是，你是否真的有想法，你是否真的想清楚了你想要去创造什么。</p><p>也许你没有想清楚，那也没问题，你可以边做边思考。前几天Paul Graham发了篇文章，认为有了AI之后，人的写作能力会进一步退化，因为写作是需要清晰的思考的，你想不清楚，你就没办法把东西写清楚。很多人会恐惧在写作过程中发现自己大脑中一团浆糊的状态，因此对此心生恐惧。而有了AI之后，大多数人确实是更不需要写作了。</p><p>但问题是，不写作的话，你怎么思考呢？</p><p>写作不是对思考的记录，而是思考本身。</p><p>同样的，去创造去完成一个产品的过程，也是你思考的过程。你没办法完全想清楚了才行动。你需要行动你才有机会想清楚。</p><p>而且，在做完之后一定要快速发布。只要完成了发布，你就等于让一个东西从你的大脑中解放了。很多人会想着先把东西做得更好更完美再发布，我想告诉你，千万不要！</p><p>完美是完成最大的敌人。世界上没有发布之后就不需要迭代的产品。</p><p>许多人之所以不愿意早早发布，其实是有些恐惧心理在其中的，担心其他人觉得不够好，担心这是否会让人觉得自己的水平不行。我真的建议你跟自己脑中的这些恶魔做些斗争。</p><p>举个例子，我发布的第一期关于Cursor的教学视频是做一个很简单在网页中生成二维码的Chrome插件，有不少人在底下评论，就做个这？</p><p>对的，那时候的我，只能做个那东西。但是我现在做了多个网站、上架了app，我相信评论我的那个人肯定没做到。而且我在做这些东西的过程中感受到了太多的心流和快乐，这个过程本身就是巨大的奖赏了。</p><p>而且我非常认同一个关于什么时候该发布自己的产品的观点，那就是如果你发布的产品的第一个版本不让你感到尴尬的话，那就说明你发布得太晚了。</p><p>所以，那个会让你尴尬的产品，你打算什么时候发布？</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://wx.zsxq.com/tags/Cursor%E5%85%A5%E9%97%A8/88845455581582&quot;&gt;#Cursor入门 &lt;/a&gt;最近星球内来了些新朋友，很多人估计还抱着犹豫和好奇的心态在判读自己能不能、该不该学习AI编程。 </summary>
+    <summary type="html">&lt;h2 id=&quot;一、代码：普通人新晋获得的财富杠杆&quot;&gt;一、代码：普通人新晋获得的财富杠杆&lt;/h2&gt;
+&lt;p&gt;要想获得财富，就必须充分利用杠杆效应。商业杠杆来自资本、劳动力和复制边际成本为零的产品（代码和媒体）。&lt;/p&gt;
+&lt;p&gt;代码和媒体是不需要许可就能使用的杠杆。这两个杠杆是新富阶</summary>
       
     
     
