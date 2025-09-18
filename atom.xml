@@ -117,32 +117,6 @@
   </entry>
   
   <entry>
-    <title>Latent保存可以绕过云端审核然后本地Latent解码，这样云端和本地没区别了</title>
-    <link href="https://www.fomal.cc/posts/77d3d5bd.html"/>
-    <id>https://www.fomal.cc/posts/77d3d5bd.html</id>
-    <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:41:22.148Z</updated>
-    
-    <content type="html"><![CDATA[<p>受到视频保存Latent的启发，所有的都可以cLatent然后到本地打开，这样就可以绕过云端的审核机制了</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001991.png" alt="image"></p><p>这个是本地的效果，和解码了一会和云端效果一模一样</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001992.png" alt="image"></p><p>这里要特别注意的是，VAE要对应你大模型的版本，要是1.5模型那么你要用1.5的VAE，同理XL或者FLUX也要对应的WAE</p><p>VAE放的位置：...\ComfyUI\models\vae</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001993.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001994.png" alt="image"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;受到视频保存Latent的启发，所有的都可以cLatent然后到本地打开，这样就可以绕过云端的审核机制了&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://xiao666.sbs/PicGo/IMG_000001991.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;p&gt;这个</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Kontext高频率分析中识别提示词整理</title>
     <link href="https://www.fomal.cc/posts/f267ed52.html"/>
     <id>https://www.fomal.cc/posts/f267ed52.html</id>
@@ -180,6 +154,32 @@
       
     <summary type="html">&lt;p&gt;Nano Banana谷歌官网使用：&lt;a href=&quot;https://aistudio.google.com/&quot;&gt;https://aistudio.google.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://xiao666.sbs/PicGo/IMG_</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Latent保存可以绕过云端审核然后本地Latent解码，这样云端和本地没区别了</title>
+    <link href="https://www.fomal.cc/posts/77d3d5bd.html"/>
+    <id>https://www.fomal.cc/posts/77d3d5bd.html</id>
+    <published>2025-09-18T07:26:57.000Z</published>
+    <updated>2025-09-18T07:41:22.148Z</updated>
+    
+    <content type="html"><![CDATA[<p>受到视频保存Latent的启发，所有的都可以cLatent然后到本地打开，这样就可以绕过云端的审核机制了</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001991.png" alt="image"></p><p>这个是本地的效果，和解码了一会和云端效果一模一样</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001992.png" alt="image"></p><p>这里要特别注意的是，VAE要对应你大模型的版本，要是1.5模型那么你要用1.5的VAE，同理XL或者FLUX也要对应的WAE</p><p>VAE放的位置：...\ComfyUI\models\vae</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001993.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001994.png" alt="image"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;受到视频保存Latent的启发，所有的都可以cLatent然后到本地打开，这样就可以绕过云端的审核机制了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://xiao666.sbs/PicGo/IMG_000001991.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;这个</summary>
       
     
     
@@ -242,31 +242,6 @@
   </entry>
   
   <entry>
-    <title>Qwen edit 基础区域文字控制画面工作流手写文字就能创成式画面本地版</title>
-    <link href="https://www.fomal.cc/posts/79413a3f.html"/>
-    <id>https://www.fomal.cc/posts/79413a3f.html</id>
-    <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:41:22.162Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://xiao666.sbs/PicGo/IMG_000002031.png" alt="image"></p><p>Qwen edit 基础区域文字控制画面本地版链接：<a href="https://pan.quark.cn/s/f46f3f447da6">https://pan.quark.cn/s/f46f3f447da6</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://xiao666.sbs/PicGo/IMG_000002031.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Qwen edit 基础区域文字控制画面本地版链接：&lt;a href=&quot;https://pan.quark.cn/s/f46f</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>RH-FLUX-redux换脸工作流</title>
     <link href="https://www.fomal.cc/posts/cd49cbb3.html"/>
     <id>https://www.fomal.cc/posts/cd49cbb3.html</id>
@@ -280,32 +255,6 @@
       
     <summary type="html">&lt;p&gt;目前最强的换脸工作流&lt;/p&gt;
 &lt;p&gt;RH-FLUX-redux换脸链接：&lt;a href=&quot;https://pan.quark.cn/s/5453eb674a93&quot;&gt;https://pan.quark.cn/s/5453eb674a93&lt;/a&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>RH-FLUX生成式修复</title>
-    <link href="https://www.fomal.cc/posts/d3df41a7.html"/>
-    <id>https://www.fomal.cc/posts/d3df41a7.html</id>
-    <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:41:22.171Z</updated>
-    
-    <content type="html"><![CDATA[<p>RH-FLUX生成式修复</p><p>RH-FLUX生成式修复链接：<a href="https://pan.quark.cn/s/8f4527f77fa2">https://pan.quark.cn/s/8f4527f77fa2</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;RH-FLUX生成式修复&lt;/p&gt;
-&lt;p&gt;RH-FLUX生成式修复链接：&lt;a href=&quot;https://pan.quark.cn/s/8f4527f77fa2&quot;&gt;https://pan.quark.cn/s/8f4527f77fa2&lt;/a&gt;&lt;/p&gt;
 </summary>
       
     
@@ -345,19 +294,45 @@
   </entry>
   
   <entry>
-    <title>RH-PS生成式放大</title>
-    <link href="https://www.fomal.cc/posts/196e2a13.html"/>
-    <id>https://www.fomal.cc/posts/196e2a13.html</id>
+    <title>RH-FLUX生成式修复</title>
+    <link href="https://www.fomal.cc/posts/d3df41a7.html"/>
+    <id>https://www.fomal.cc/posts/d3df41a7.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:41:22.175Z</updated>
+    <updated>2025-09-18T07:41:22.171Z</updated>
     
-    <content type="html"><![CDATA[<p>RH-PS生成式放大服务端链接：<a href="https://pan.quark.cn/s/19bb71293984">https://pan.quark.cn/s/19bb71293984</a></p><p>RH-PS生成式放大客户端链接：<a href="https://pan.quark.cn/s/643bbe8281b7">https://pan.quark.cn/s/643bbe8281b7</a></p><p>设置下放大尺寸不要超过3倍不然配置一般将会让COMFYUI奔溃！点击运行就可以高清修复了</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002032.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002033.png" alt="image"></p><p>关于如何安装请看这篇文章：<a href="https://t.zsxq.com/Kdba0">https://t.zsxq.com/Kdba0</a></p>]]></content>
+    <content type="html"><![CDATA[<p>RH-FLUX生成式修复</p><p>RH-FLUX生成式修复链接：<a href="https://pan.quark.cn/s/8f4527f77fa2">https://pan.quark.cn/s/8f4527f77fa2</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;RH-PS生成式放大服务端链接：&lt;a href=&quot;https://pan.quark.cn/s/19bb71293984&quot;&gt;https://pan.quark.cn/s/19bb71293984&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;RH-PS生成式放大客户端链接：&lt;a href=&quot;htt</summary>
+    <summary type="html">&lt;p&gt;RH-FLUX生成式修复&lt;/p&gt;
+&lt;p&gt;RH-FLUX生成式修复链接：&lt;a href=&quot;https://pan.quark.cn/s/8f4527f77fa2&quot;&gt;https://pan.quark.cn/s/8f4527f77fa2&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Qwen edit 基础区域文字控制画面工作流手写文字就能创成式画面本地版</title>
+    <link href="https://www.fomal.cc/posts/79413a3f.html"/>
+    <id>https://www.fomal.cc/posts/79413a3f.html</id>
+    <published>2025-09-18T07:26:57.000Z</published>
+    <updated>2025-09-18T07:41:22.162Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://xiao666.sbs/PicGo/IMG_000002031.png" alt="image"></p><p>Qwen edit 基础区域文字控制画面本地版链接：<a href="https://pan.quark.cn/s/f46f3f447da6">https://pan.quark.cn/s/f46f3f447da6</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://xiao666.sbs/PicGo/IMG_000002031.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Qwen edit 基础区域文字控制画面本地版链接：&lt;a href=&quot;https://pan.quark.cn/s/f46f</summary>
       
     
     
@@ -383,6 +358,31 @@
       
     <summary type="html">&lt;p&gt;RH-wan2.2最强生成式修复链接：&lt;a href=&quot;https://pan.quark.cn/s/ed55e0a18c7b&quot;&gt;https://pan.quark.cn/s/ed55e0a18c7b&lt;/a&gt;&lt;/p&gt;
 </summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RH-PS生成式放大</title>
+    <link href="https://www.fomal.cc/posts/196e2a13.html"/>
+    <id>https://www.fomal.cc/posts/196e2a13.html</id>
+    <published>2025-09-18T07:26:57.000Z</published>
+    <updated>2025-09-18T07:41:22.175Z</updated>
+    
+    <content type="html"><![CDATA[<p>RH-PS生成式放大服务端链接：<a href="https://pan.quark.cn/s/19bb71293984">https://pan.quark.cn/s/19bb71293984</a></p><p>RH-PS生成式放大客户端链接：<a href="https://pan.quark.cn/s/643bbe8281b7">https://pan.quark.cn/s/643bbe8281b7</a></p><p>设置下放大尺寸不要超过3倍不然配置一般将会让COMFYUI奔溃！点击运行就可以高清修复了</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002032.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002033.png" alt="image"></p><p>关于如何安装请看这篇文章：<a href="https://t.zsxq.com/Kdba0">https://t.zsxq.com/Kdba0</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;RH-PS生成式放大服务端链接：&lt;a href=&quot;https://pan.quark.cn/s/19bb71293984&quot;&gt;https://pan.quark.cn/s/19bb71293984&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RH-PS生成式放大客户端链接：&lt;a href=&quot;htt</summary>
       
     
     
@@ -421,30 +421,6 @@
   </entry>
   
   <entry>
-    <title>wan2.1 720p fusionX+NAG 所有功能开源的用这套就够了其他已成过去式</title>
-    <link href="https://www.fomal.cc/posts/af359024.html"/>
-    <id>https://www.fomal.cc/posts/af359024.html</id>
-    <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:41:22.191Z</updated>
-    
-    <content type="html"><![CDATA[<p>官方模型c站下载页：<a href="https://civitai.com/models/1651125?modelVersionId=1882322">https://civitai.com/models/1651125?modelVersionId=1882322</a></p><p>官方抱脸下载页：<a href="https://hf-mirror.com/QuantStack/Wan2.1_T2V_14B_FusionX_VACE/tree/main">https://hf-mirror.com/QuantStack/Wan2.1_T2V_14B_FusionX_VACE/tree/main</a></p><p><a href="https://hf-mirror.com/vrgamedevgirl84/Wan14BT2VFusioniX/tree/main">https://hf-mirror.com//vrgamedevgirl84/Wan14BT2VFusioniX/tree/main</a></p><h1>VACE 局部重绘视频+FusionX+NAG：</h1><p><a href="https://www.runninghub.cn/post/1934530966226411521">https://www.runninghub.cn/post/1934968414744322049</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002050.png" alt="image"></p><h1>VACE首尾帧+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934854834996584449">https://www.runninghub.cn/post/1934854834996584449</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002051.png" alt="image"></p><h1>VACE骨骼深度+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805604462731266">https://www.runninghub.cn/post/1934805604462731266</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002052.png" alt="image"></p><h1>VACE扩图+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805333355208705">https://www.runninghub.cn/post/1934805333355208705</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002053.png" alt="image"></p><h1>phantom FusionX+NAG图片合并或者产品展示视频</h1><p><a href="https://www.runninghub.cn/post/1934531622417178625">https://www.runninghub.cn/post/1934531622417178625</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002054.png" alt="image"></p><h1>wan2.1 720p图生视频fusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805333355208705">https://www.runninghub.cn/post/1934530966226411521</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002055.png" alt="image"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;官方模型c站下载页：&lt;a href=&quot;https://civitai.com/models/1651125?modelVersionId=1882322&quot;&gt;https://civitai.com/models/1651125?modelVersionId=1882322&lt;/</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>nano-banana几百种玩法+单图双图多图合并是基于COMFYUI官方API工作流</title>
     <link href="https://www.fomal.cc/posts/44277a94.html"/>
     <id>https://www.fomal.cc/posts/44277a94.html</id>
@@ -458,6 +434,30 @@
       
     <summary type="html">&lt;h1&gt;nano-banana几百种玩法地址：&lt;/h1&gt;
 &lt;p&gt;:&lt;a href=&quot;https://github.com/tanangular/awesome-nano-banana?tab=readme-ov-file&quot;&gt;https://github.com/tanangula</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wan2.1 720p fusionX+NAG 所有功能开源的用这套就够了其他已成过去式</title>
+    <link href="https://www.fomal.cc/posts/af359024.html"/>
+    <id>https://www.fomal.cc/posts/af359024.html</id>
+    <published>2025-09-18T07:26:57.000Z</published>
+    <updated>2025-09-18T07:41:22.191Z</updated>
+    
+    <content type="html"><![CDATA[<p>官方模型c站下载页：<a href="https://civitai.com/models/1651125?modelVersionId=1882322">https://civitai.com/models/1651125?modelVersionId=1882322</a></p><p>官方抱脸下载页：<a href="https://hf-mirror.com/QuantStack/Wan2.1_T2V_14B_FusionX_VACE/tree/main">https://hf-mirror.com/QuantStack/Wan2.1_T2V_14B_FusionX_VACE/tree/main</a></p><p><a href="https://hf-mirror.com/vrgamedevgirl84/Wan14BT2VFusioniX/tree/main">https://hf-mirror.com//vrgamedevgirl84/Wan14BT2VFusioniX/tree/main</a></p><h1>VACE 局部重绘视频+FusionX+NAG：</h1><p><a href="https://www.runninghub.cn/post/1934530966226411521">https://www.runninghub.cn/post/1934968414744322049</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002050.png" alt="image"></p><h1>VACE首尾帧+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934854834996584449">https://www.runninghub.cn/post/1934854834996584449</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002051.png" alt="image"></p><h1>VACE骨骼深度+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805604462731266">https://www.runninghub.cn/post/1934805604462731266</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002052.png" alt="image"></p><h1>VACE扩图+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805333355208705">https://www.runninghub.cn/post/1934805333355208705</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002053.png" alt="image"></p><h1>phantom FusionX+NAG图片合并或者产品展示视频</h1><p><a href="https://www.runninghub.cn/post/1934531622417178625">https://www.runninghub.cn/post/1934531622417178625</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002054.png" alt="image"></p><h1>wan2.1 720p图生视频fusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805333355208705">https://www.runninghub.cn/post/1934530966226411521</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002055.png" alt="image"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;官方模型c站下载页：&lt;a href=&quot;https://civitai.com/models/1651125?modelVersionId=1882322&quot;&gt;https://civitai.com/models/1651125?modelVersionId=1882322&lt;/</summary>
       
     
     
