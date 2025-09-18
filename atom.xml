@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2025-09-18T07:32:02.134Z</updated>
+  <updated>2025-09-18T07:41:22.112Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.fomal.cc/posts/868657ab.html"/>
     <id>https://www.fomal.cc/posts/868657ab.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.134Z</updated>
+    <updated>2025-09-18T07:41:22.112Z</updated>
     
     <content type="html"><![CDATA[<p>COMFYUI云端节点使用方法 ，配置不够又想本地玩COMFYUI方法</p><p>创成式填充和云端大模型使用方法：<a href="https://pan.quark.cn/s/23401fe4ac44">https://pan.quark.cn/s/23401fe4ac44</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001979.png" alt="image"></p>]]></content>
     
@@ -46,7 +46,7 @@
     <link href="https://www.fomal.cc/posts/6a4bb092.html"/>
     <id>https://www.fomal.cc/posts/6a4bb092.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.145Z</updated>
+    <updated>2025-09-18T07:41:22.121Z</updated>
     
     <content type="html"><![CDATA[<p>官方：<a href="https://huggingface.co/yichengup/flux.1-fill-dev-OneReward/tree/main">yichengup/flux.1-fill-dev-OneReward at main</a></p><p>非常不错的填充和移除，效果以及比正版PS好了</p><p>移除</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001980.png" alt="image"></p><p>扩图或者填充</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001981.png" alt="image"></p><p>Fill-OneReward链接：<a href="https://pan.quark.cn/s/c1e4aeaef3a9">https://pan.quark.cn/s/c1e4aeaef3a9</a></p>]]></content>
     
@@ -71,7 +71,7 @@
     <link href="https://www.fomal.cc/posts/1e109abf.html"/>
     <id>https://www.fomal.cc/posts/1e109abf.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.155Z</updated>
+    <updated>2025-09-18T07:41:22.126Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://xiao666.sbs/PicGo/IMG_000001982.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001983.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001984.png" alt="image"></p><p>官方网站：<a href="https://huggingface.co/InstantX/Qwen-Image-ControlNet-Union">https://huggingface.co/InstantX/Qwen-Image-ControlNet-Union</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001985.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001986.png" alt="image"><img src="https://xiao666.sbs/PicGo/IMG_000001987.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001988.png" alt="image"><img src="https://xiao666.sbs/PicGo/IMG_000001989.png" alt="image"></p><p>InstantX+Controlne工作流链接：<a href="https://pan.quark.cn/s/861c7f41a827">https://pan.quark.cn/s/861c7f41a827</a></p>]]></content>
     
@@ -96,7 +96,7 @@
     <link href="https://www.fomal.cc/posts/7c4bb464.html"/>
     <id>https://www.fomal.cc/posts/7c4bb464.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.168Z</updated>
+    <updated>2025-09-18T07:41:22.133Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://xiao666.sbs/PicGo/IMG_000001990.png" alt="image"></p><p>Kontext LORA训练安装及参数实战教程 <a href="https://www.bilibili.com/video/BV1gsGHzfEQ9?share_source=copy_web&amp;vd_source=2d9abb824f9f05efad5e1155a15a43b9">https://www.bilibili.com/video/BV1gsGHzfEQ9/?share_source=copy_web&amp;vd_source=2d9abb824f9f05efad5e1155a15a43b9</a></p><p>2ITrainerguanfangban懒人包 ：<a href="https://pan.quark.cn/s/9bf5b148c3f8">https://pan.quark.cn/s/9bf5b148c3f8</a></p><p>T2ITrainerguanfangban环境文件：<a href="https://pan.quark.cn/s/7e69664ff8e8">https://pan.quark.cn/s/7e69664ff8e8</a></p>]]></content>
     
@@ -117,60 +117,11 @@
   </entry>
   
   <entry>
-    <title>Kontext高频率分析中识别提示词整理</title>
-    <link href="https://www.fomal.cc/posts/f267ed52.html"/>
-    <id>https://www.fomal.cc/posts/f267ed52.html</id>
-    <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.182Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://github.com/lrzjason/Kontext-Bench-Analysis/blob/main/analysis.md">https://github.com/lrzjason/Kontext-Bench-Analysis/blob/main/analysis.md</a></p><p>Kontext对提示词要求很高，这里是常用的提示词整理，大家可以写提示词作为参考</p><h1 id="Instruction-Analysis-Results"><a href="#Instruction-Analysis-Results" class="headerlink" title="Instruction Analysis Results"></a>Instruction Analysis Results</h1><h2 id="Top-50-Most-Frequent-Words"><a href="#Top-50-Most-Frequent-Words" class="headerlink" title="Top 50 Most Frequent Words"></a>Top 50 Most Frequent Words</h2><ol><li>the: 935</li><li>a: 708</li><li>this: 327</li><li>of: 287</li><li>in: 240</li><li>on: 213</li><li>is: 191</li><li>make: 170</li><li>now: 157</li><li>into: 152</li><li>to: 142</li><li>remove: 126</li><li>with: 112</li><li>and: 100</li><li>man: 100</li><li>image: 93</li><li>add: 91</li><li>turn: 88</li><li>style: 78</li><li>art: 78</li><li>change: 75</li><li>text: 59</li><li>photo: 58</li><li>an: 58</li><li>replace: 56</li><li>it: 53</li><li>at: 41</li><li>using: 40</li><li>dog: 36</li><li>up: 35</li><li>object: 34</li><li>her: 34</li><li>out: 33</li><li>says: 33</li><li>him: 33</li><li>middle: 32</li><li>forest: 31</li><li>hat: 31</li><li>that: 31</li><li>all: 30</li><li>real: 30</li><li>character: 30</li><li>zoom: 29</li><li>table: 29</li><li>words: 29</li><li>red: 28</li><li>its: 26</li><li>from: 26</li><li>sitting: 25</li><li>cowboy: 25</li></ol><h2 id="Top-50-Most-Frequent-Bigrams"><a href="#Top-50-Most-Frequent-Bigrams" class="headerlink" title="Top 50 Most Frequent Bigrams"></a>Top 50 Most Frequent Bigrams</h2><ol><li>is now: 115</li><li>of a: 106</li><li>in the: 102</li><li>on the: 99</li><li>remove the: 95</li><li>into a: 93</li><li>the man: 77</li><li>this into: 74</li><li>on a: 68</li><li>in a: 62</li><li>change the: 61</li><li>of the: 54</li><li>turn this: 54</li><li>this style: 54</li><li>add a: 53</li><li>the text: 53</li><li>replace the: 51</li><li>make the: 50</li><li>of this: 48</li><li>with a: 45</li><li>make this: 38</li><li>using this: 35</li><li>photo of: 34</li><li>this image: 34</li><li>art of: 33</li><li>the middle: 31</li><li>man is: 29</li><li>the image: 27</li><li>the words: 27</li><li>to the: 25</li><li>a real: 25</li><li>a cowboy: 23</li><li>turn the: 22</li><li>the word: 22</li><li>cowboy hat: 22</li><li>style make: 22</li><li>zoom out: 21</li><li>a small: 21</li><li>in this: 21</li><li>the dog: 21</li><li>the background: 20</li><li>this object: 20</li><li>make art: 20</li><li>that says: 19</li><li>middle of: 17</li><li>at the: 17</li><li>the cat: 16</li><li>image of: 16</li><li>all the: 16</li><li>make her: 16</li></ol><h2 id="Top-50-Most-Frequent-Trigrams"><a href="#Top-50-Most-Frequent-Trigrams" class="headerlink" title="Top 50 Most Frequent Trigrams"></a>Top 50 Most Frequent Trigrams</h2><ol><li>turn this into: 53</li><li>this into a: 46</li><li>using this style: 31</li><li>in the middle: 29</li><li>man is now: 26</li><li>art of a: 26</li><li>the man is: 25</li><li>change the text: 24</li><li>this style make: 22</li><li>a cowboy hat: 21</li><li>into a real: 20</li><li>make this into: 19</li><li>in this style: 19</li><li>the middle of: 17</li><li>style make art: 16</li><li>make art of: 16</li><li>a photo of: 14</li><li>the text to: 13</li><li>an image of: 13</li><li>the man in: 13</li><li>add a cowboy: 13</li><li>photo of a: 13</li><li>of this image: 12</li><li>is now holding: 12</li><li>remove all the: 11</li><li>man in the: 11</li><li>is now sitting: 11</li><li>black forest labs: 11</li><li>on a table: 11</li><li>of the image: 11</li><li>image of a: 10</li><li>this into anime: 10</li><li>she is now: 10</li><li>zoom out showing: 10</li><li>on top of: 10</li><li>of this man: 10</li><li>photo of this: 9</li><li>a real photo: 9</li><li>middle of a: 9</li><li>is now wearing: 9</li><li>on the right: 9</li><li>remove the man: 8</li><li>this style create: 8</li><li>text to say: 8</li><li>is now on: 8</li><li>a real image: 8</li><li>make the man: 8</li><li>of the man: 8</li><li>zoom in on: 7</li><li>in on the: 7</li></ol><h2 id="Common-Instruction-Structures-First-Word"><a href="#Common-Instruction-Structures-First-Word" class="headerlink" title="Common Instruction Structures (First Word)"></a>Common Instruction Structures (First Word)</h2><ol><li>make: 139</li><li>remove: 123</li><li>the: 103</li><li>turn: 87</li><li>add: 80</li><li>change: 71</li><li>a: 56</li><li>replace: 53</li><li>this: 35</li><li>using: 35</li><li>zoom: 29</li><li>put: 21</li><li>give: 20</li><li>she: 12</li><li>an: 10</li><li>place: 9</li><li>show: 7</li><li>art: 7</li><li>create: 6</li><li>photo: 6</li><li>edit: 5</li><li>color: 5</li><li>recolor: 5</li><li>have: 4</li><li>anime: 4</li><li>photoshop: 4</li><li>convert: 4</li><li>my: 4</li><li>its: 3</li><li>open: 3</li><li>rotate: 3</li><li>write: 3</li><li>these: 3</li><li>set: 3</li><li>enhance: 3</li><li>there: 2</li><li>fill: 2</li><li>pov: 2</li><li>move: 2</li><li>shave: 2</li><li>artwork: 2</li><li>flip: 2</li><li>restyle: 2</li><li>draw: 2</li><li>he: 2</li><li>close: 2</li><li>generate: 2</li><li>unblur: 2</li><li>clean: 2</li><li>every: 1</li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/lrzjason/Kontext-Bench-Analysis/blob/main/analysis.md&quot;&gt;https://github.com/lrzjason/Kontext-Bench-Analysis/blo</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nano Banana谷歌官网支持多次修改功能</title>
-    <link href="https://www.fomal.cc/posts/17ddf9c5.html"/>
-    <id>https://www.fomal.cc/posts/17ddf9c5.html</id>
-    <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.205Z</updated>
-    
-    <content type="html"><![CDATA[<p>Nano Banana谷歌官网使用：<a href="https://aistudio.google.com/">https://aistudio.google.com/</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001995.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001996.png" alt="image"></p><p>可以连续修改图片</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Nano Banana谷歌官网使用：&lt;a href=&quot;https://aistudio.google.com/&quot;&gt;https://aistudio.google.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://xiao666.sbs/PicGo/IMG_</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Latent保存可以绕过云端审核然后本地Latent解码，这样云端和本地没区别了</title>
     <link href="https://www.fomal.cc/posts/77d3d5bd.html"/>
     <id>https://www.fomal.cc/posts/77d3d5bd.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.192Z</updated>
+    <updated>2025-09-18T07:41:22.148Z</updated>
     
     <content type="html"><![CDATA[<p>受到视频保存Latent的启发，所有的都可以cLatent然后到本地打开，这样就可以绕过云端的审核机制了</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001991.png" alt="image"></p><p>这个是本地的效果，和解码了一会和云端效果一模一样</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001992.png" alt="image"></p><p>这里要特别注意的是，VAE要对应你大模型的版本，要是1.5模型那么你要用1.5的VAE，同理XL或者FLUX也要对应的WAE</p><p>VAE放的位置：...\ComfyUI\models\vae</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001993.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001994.png" alt="image"></p>]]></content>
     
@@ -192,11 +143,60 @@
   </entry>
   
   <entry>
+    <title>Kontext高频率分析中识别提示词整理</title>
+    <link href="https://www.fomal.cc/posts/f267ed52.html"/>
+    <id>https://www.fomal.cc/posts/f267ed52.html</id>
+    <published>2025-09-18T07:26:57.000Z</published>
+    <updated>2025-09-18T07:41:22.139Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://github.com/lrzjason/Kontext-Bench-Analysis/blob/main/analysis.md">https://github.com/lrzjason/Kontext-Bench-Analysis/blob/main/analysis.md</a></p><p>Kontext对提示词要求很高，这里是常用的提示词整理，大家可以写提示词作为参考</p><h1>Instruction Analysis Results</h1><h2 id="Top-50-Most-Frequent-Words">Top 50 Most Frequent Words</h2><ol><li>the: 935</li><li>a: 708</li><li>this: 327</li><li>of: 287</li><li>in: 240</li><li>on: 213</li><li>is: 191</li><li>make: 170</li><li>now: 157</li><li>into: 152</li><li>to: 142</li><li>remove: 126</li><li>with: 112</li><li>and: 100</li><li>man: 100</li><li>image: 93</li><li>add: 91</li><li>turn: 88</li><li>style: 78</li><li>art: 78</li><li>change: 75</li><li>text: 59</li><li>photo: 58</li><li>an: 58</li><li>replace: 56</li><li>it: 53</li><li>at: 41</li><li>using: 40</li><li>dog: 36</li><li>up: 35</li><li>object: 34</li><li>her: 34</li><li>out: 33</li><li>says: 33</li><li>him: 33</li><li>middle: 32</li><li>forest: 31</li><li>hat: 31</li><li>that: 31</li><li>all: 30</li><li>real: 30</li><li>character: 30</li><li>zoom: 29</li><li>table: 29</li><li>words: 29</li><li>red: 28</li><li>its: 26</li><li>from: 26</li><li>sitting: 25</li><li>cowboy: 25</li></ol><h2 id="Top-50-Most-Frequent-Bigrams">Top 50 Most Frequent Bigrams</h2><ol><li>is now: 115</li><li>of a: 106</li><li>in the: 102</li><li>on the: 99</li><li>remove the: 95</li><li>into a: 93</li><li>the man: 77</li><li>this into: 74</li><li>on a: 68</li><li>in a: 62</li><li>change the: 61</li><li>of the: 54</li><li>turn this: 54</li><li>this style: 54</li><li>add a: 53</li><li>the text: 53</li><li>replace the: 51</li><li>make the: 50</li><li>of this: 48</li><li>with a: 45</li><li>make this: 38</li><li>using this: 35</li><li>photo of: 34</li><li>this image: 34</li><li>art of: 33</li><li>the middle: 31</li><li>man is: 29</li><li>the image: 27</li><li>the words: 27</li><li>to the: 25</li><li>a real: 25</li><li>a cowboy: 23</li><li>turn the: 22</li><li>the word: 22</li><li>cowboy hat: 22</li><li>style make: 22</li><li>zoom out: 21</li><li>a small: 21</li><li>in this: 21</li><li>the dog: 21</li><li>the background: 20</li><li>this object: 20</li><li>make art: 20</li><li>that says: 19</li><li>middle of: 17</li><li>at the: 17</li><li>the cat: 16</li><li>image of: 16</li><li>all the: 16</li><li>make her: 16</li></ol><h2 id="Top-50-Most-Frequent-Trigrams">Top 50 Most Frequent Trigrams</h2><ol><li>turn this into: 53</li><li>this into a: 46</li><li>using this style: 31</li><li>in the middle: 29</li><li>man is now: 26</li><li>art of a: 26</li><li>the man is: 25</li><li>change the text: 24</li><li>this style make: 22</li><li>a cowboy hat: 21</li><li>into a real: 20</li><li>make this into: 19</li><li>in this style: 19</li><li>the middle of: 17</li><li>style make art: 16</li><li>make art of: 16</li><li>a photo of: 14</li><li>the text to: 13</li><li>an image of: 13</li><li>the man in: 13</li><li>add a cowboy: 13</li><li>photo of a: 13</li><li>of this image: 12</li><li>is now holding: 12</li><li>remove all the: 11</li><li>man in the: 11</li><li>is now sitting: 11</li><li>black forest labs: 11</li><li>on a table: 11</li><li>of the image: 11</li><li>image of a: 10</li><li>this into anime: 10</li><li>she is now: 10</li><li>zoom out showing: 10</li><li>on top of: 10</li><li>of this man: 10</li><li>photo of this: 9</li><li>a real photo: 9</li><li>middle of a: 9</li><li>is now wearing: 9</li><li>on the right: 9</li><li>remove the man: 8</li><li>this style create: 8</li><li>text to say: 8</li><li>is now on: 8</li><li>a real image: 8</li><li>make the man: 8</li><li>of the man: 8</li><li>zoom in on: 7</li><li>in on the: 7</li></ol><h2 id="Common-Instruction-Structures-First-Word">Common Instruction Structures (First Word)</h2><ol><li>make: 139</li><li>remove: 123</li><li>the: 103</li><li>turn: 87</li><li>add: 80</li><li>change: 71</li><li>a: 56</li><li>replace: 53</li><li>this: 35</li><li>using: 35</li><li>zoom: 29</li><li>put: 21</li><li>give: 20</li><li>she: 12</li><li>an: 10</li><li>place: 9</li><li>show: 7</li><li>art: 7</li><li>create: 6</li><li>photo: 6</li><li>edit: 5</li><li>color: 5</li><li>recolor: 5</li><li>have: 4</li><li>anime: 4</li><li>photoshop: 4</li><li>convert: 4</li><li>my: 4</li><li>its: 3</li><li>open: 3</li><li>rotate: 3</li><li>write: 3</li><li>these: 3</li><li>set: 3</li><li>enhance: 3</li><li>there: 2</li><li>fill: 2</li><li>pov: 2</li><li>move: 2</li><li>shave: 2</li><li>artwork: 2</li><li>flip: 2</li><li>restyle: 2</li><li>draw: 2</li><li>he: 2</li><li>close: 2</li><li>generate: 2</li><li>unblur: 2</li><li>clean: 2</li><li>every: 1</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/lrzjason/Kontext-Bench-Analysis/blob/main/analysis.md&quot;&gt;https://github.com/lrzjason/Kontext-Bench-Analysis/blo</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nano Banana谷歌官网支持多次修改功能</title>
+    <link href="https://www.fomal.cc/posts/17ddf9c5.html"/>
+    <id>https://www.fomal.cc/posts/17ddf9c5.html</id>
+    <published>2025-09-18T07:26:57.000Z</published>
+    <updated>2025-09-18T07:41:22.144Z</updated>
+    
+    <content type="html"><![CDATA[<p>Nano Banana谷歌官网使用：<a href="https://aistudio.google.com/">https://aistudio.google.com/</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001995.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001996.png" alt="image"></p><p>可以连续修改图片</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Nano Banana谷歌官网使用：&lt;a href=&quot;https://aistudio.google.com/&quot;&gt;https://aistudio.google.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://xiao666.sbs/PicGo/IMG_</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Qwen edit 基础区域文字控制画面工作流手写文字就能创成式画面了 并且文字到哪里</title>
     <link href="https://www.fomal.cc/posts/b52ef493.html"/>
     <id>https://www.fomal.cc/posts/b52ef493.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.231Z</updated>
+    <updated>2025-09-18T07:41:22.152Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://xiao666.sbs/PicGo/IMG_000002028.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002029.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002030.png" alt="image"></p><p>Qwen edit 基础区域文字控制画面工作流链接：<a href="https://pan.quark.cn/s/d557e83cd340">https://pan.quark.cn/s/d557e83cd340</a></p>]]></content>
     
@@ -217,11 +217,36 @@
   </entry>
   
   <entry>
+    <title>RH--Krea生成式修复客户端</title>
+    <link href="https://www.fomal.cc/posts/71aa73f2.html"/>
+    <id>https://www.fomal.cc/posts/71aa73f2.html</id>
+    <published>2025-09-18T07:26:57.000Z</published>
+    <updated>2025-09-18T07:41:22.166Z</updated>
+    
+    <content type="html"><![CDATA[<p>RH--Krea生成式修复客户端链接：<a href="https://pan.quark.cn/s/da2bd91dc4ce">https://pan.quark.cn/s/da2bd91dc4ce</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;RH--Krea生成式修复客户端链接：&lt;a href=&quot;https://pan.quark.cn/s/da2bd91dc4ce&quot;&gt;https://pan.quark.cn/s/da2bd91dc4ce&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Qwen edit 基础区域文字控制画面工作流手写文字就能创成式画面本地版</title>
     <link href="https://www.fomal.cc/posts/79413a3f.html"/>
     <id>https://www.fomal.cc/posts/79413a3f.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.243Z</updated>
+    <updated>2025-09-18T07:41:22.162Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://xiao666.sbs/PicGo/IMG_000002031.png" alt="image"></p><p>Qwen edit 基础区域文字控制画面本地版链接：<a href="https://pan.quark.cn/s/f46f3f447da6">https://pan.quark.cn/s/f46f3f447da6</a></p>]]></content>
     
@@ -242,18 +267,19 @@
   </entry>
   
   <entry>
-    <title>RH--Krea生成式修复客户端</title>
-    <link href="https://www.fomal.cc/posts/71aa73f2.html"/>
-    <id>https://www.fomal.cc/posts/71aa73f2.html</id>
+    <title>RH-FLUX-redux换脸工作流</title>
+    <link href="https://www.fomal.cc/posts/cd49cbb3.html"/>
+    <id>https://www.fomal.cc/posts/cd49cbb3.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.250Z</updated>
+    <updated>2025-09-18T07:41:22.187Z</updated>
     
-    <content type="html"><![CDATA[<p>RH--Krea生成式修复客户端链接：<a href="https://pan\.quark\.cn/s/da2bd91dc4ce">https://pan\.quark\.cn/s/da2bd91dc4ce</a></p>]]></content>
+    <content type="html"><![CDATA[<p>目前最强的换脸工作流</p><p>RH-FLUX-redux换脸链接：<a href="https://pan.quark.cn/s/5453eb674a93">https://pan.quark.cn/s/5453eb674a93</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;RH--Krea生成式修复客户端链接：&lt;a href=&quot;https://pan&#92;.quark&#92;.cn/s/da2bd91dc4ce&quot;&gt;https://pan&#92;.quark&#92;.cn/s/da2bd91dc4ce&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;目前最强的换脸工作流&lt;/p&gt;
+&lt;p&gt;RH-FLUX-redux换脸链接：&lt;a href=&quot;https://pan.quark.cn/s/5453eb674a93&quot;&gt;https://pan.quark.cn/s/5453eb674a93&lt;/a&gt;&lt;/p&gt;
 </summary>
       
     
@@ -271,7 +297,7 @@
     <link href="https://www.fomal.cc/posts/d3df41a7.html"/>
     <id>https://www.fomal.cc/posts/d3df41a7.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.262Z</updated>
+    <updated>2025-09-18T07:41:22.171Z</updated>
     
     <content type="html"><![CDATA[<p>RH-FLUX生成式修复</p><p>RH-FLUX生成式修复链接：<a href="https://pan.quark.cn/s/8f4527f77fa2">https://pan.quark.cn/s/8f4527f77fa2</a></p>]]></content>
     
@@ -293,36 +319,11 @@
   </entry>
   
   <entry>
-    <title>RH-PS生成式放大</title>
-    <link href="https://www.fomal.cc/posts/196e2a13.html"/>
-    <id>https://www.fomal.cc/posts/196e2a13.html</id>
-    <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.286Z</updated>
-    
-    <content type="html"><![CDATA[<p>RH-PS生成式放大服务端链接：<a href="https://pan.quark.cn/s/19bb71293984">https://pan.quark.cn/s/19bb71293984</a></p><p>RH-PS生成式放大客户端链接：<a href="https://pan.quark.cn/s/643bbe8281b7">https://pan.quark.cn/s/643bbe8281b7</a></p><p>设置下放大尺寸不要超过3倍不然配置一般将会让COMFYUI奔溃！点击运行就可以高清修复了</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002032.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002033.png" alt="image"></p><p>关于如何安装请看这篇文章：<a href="https://t.zsxq.com/Kdba0">https://t.zsxq.com/Kdba0</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;RH-PS生成式放大服务端链接：&lt;a href=&quot;https://pan.quark.cn/s/19bb71293984&quot;&gt;https://pan.quark.cn/s/19bb71293984&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;RH-PS生成式放大客户端链接：&lt;a href=&quot;htt</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>RH-PS半透明抠图</title>
     <link href="https://www.fomal.cc/posts/7fb33958.html"/>
     <id>https://www.fomal.cc/posts/7fb33958.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.271Z</updated>
+    <updated>2025-09-18T07:41:22.177Z</updated>
     
     <content type="html"><![CDATA[<p>我用夸克网盘给你分享了「RH-PS半透明抠图」，点击链接或复制整段内容，打开「夸克APP」即可获取。</p><p>/~762c37wFVu~:/</p><p>链接：<a href="https://pan.quark.cn/s/1bfdef122f6d">https://pan.quark.cn/s/1bfdef122f6d</a></p>]]></content>
     
@@ -344,11 +345,36 @@
   </entry>
   
   <entry>
+    <title>RH-PS生成式放大</title>
+    <link href="https://www.fomal.cc/posts/196e2a13.html"/>
+    <id>https://www.fomal.cc/posts/196e2a13.html</id>
+    <published>2025-09-18T07:26:57.000Z</published>
+    <updated>2025-09-18T07:41:22.175Z</updated>
+    
+    <content type="html"><![CDATA[<p>RH-PS生成式放大服务端链接：<a href="https://pan.quark.cn/s/19bb71293984">https://pan.quark.cn/s/19bb71293984</a></p><p>RH-PS生成式放大客户端链接：<a href="https://pan.quark.cn/s/643bbe8281b7">https://pan.quark.cn/s/643bbe8281b7</a></p><p>设置下放大尺寸不要超过3倍不然配置一般将会让COMFYUI奔溃！点击运行就可以高清修复了</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002032.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002033.png" alt="image"></p><p>关于如何安装请看这篇文章：<a href="https://t.zsxq.com/Kdba0">https://t.zsxq.com/Kdba0</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;RH-PS生成式放大服务端链接：&lt;a href=&quot;https://pan.quark.cn/s/19bb71293984&quot;&gt;https://pan.quark.cn/s/19bb71293984&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RH-PS生成式放大客户端链接：&lt;a href=&quot;htt</summary>
+      
+    
+    
+    
+    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
+    
+    
+    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>RH-wan2.2最强生成式修复</title>
     <link href="https://www.fomal.cc/posts/81dae1bb.html"/>
     <id>https://www.fomal.cc/posts/81dae1bb.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.296Z</updated>
+    <updated>2025-09-18T07:41:22.180Z</updated>
     
     <content type="html"><![CDATA[<p>RH-wan2.2最强生成式修复链接：<a href="https://pan.quark.cn/s/ed55e0a18c7b">https://pan.quark.cn/s/ed55e0a18c7b</a></p>]]></content>
     
@@ -373,7 +399,7 @@
     <link href="https://www.fomal.cc/posts/65cdf32b.html"/>
     <id>https://www.fomal.cc/posts/65cdf32b.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.307Z</updated>
+    <updated>2025-09-18T07:41:22.184Z</updated>
     
     <content type="html"><![CDATA[<p><strong>在我分享工作流中有通常有分客户端版和服务端版，学习这个优点：</strong></p><p>1.你每个月69就能获得一台4090配置云端电脑使用或者就能和你电脑PS进行联动！相对和类似天宫云租电脑使用要便宜很多。</p><p>2.还有个优点你不用安装各种COMFYUI的插件就能体验最新AI技术</p><p>-----------------------------------------------------------------------------------------------------------------</p><p>服务端COMFYUI设置</p><p>1.新建一个空白工作流</p><p><a href="https://www.runninghub.cn/workspace">https://www.runninghub.cn/workspace</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002034.png" alt="image"></p><p>2.将网盘下载服务端工作流</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002035.png" alt="image"></p><p>3服务端直接工作流拖入RH的空白工作流中</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002036.png" alt="image"></p><p>4.更换名字并且保存工作流</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002037.png" alt="image"></p><p>5.返回工作流就可以看到放大工作流服务端工作流了</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002038.png" alt="image"><img src="https://xiao666.sbs/PicGo/IMG_000002039.png" alt="image"></p><p>6点击进入将网页上的工作流序号：xxxx拷贝到本地的COMFYUI中，</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002040.png" alt="image"></p><p>--------------------------------------------------------------------------------------</p><p>本地COMFYUI设置</p><p>首先环境补丁运行：<a href="https://pan.quark.cn/s/bafc31e79829">https://pan.quark.cn/s/bafc31e79829</a></p><p>RH-ComfyUI_windows_portable_nvidia务必用7Z解压：<a href="https://pan.quark.cn/s/4d166575a375">https://pan.quark.cn/s/4d166575a375</a></p><p>1.网盘下载客户端工作流</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002041.png" alt="image"></p><p>2.运行本地COMFYUI将工作流拖入</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002042.png" alt="image"></p><p>3.在COMFYUI找到这个节点然后将工作流的序列号填写下</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002043.png" alt="image"></p><p>4.这个是APIKEY我给你们这个是我的API你们要换成你们自己的，然后会因为API繁忙导致生成不了图<img src="https://xiao666.sbs/PicGo/IMG_000002044.png" alt="image"></p><p>API获得：<a href="https://www.runninghub.cn/vip-rights/2">https://www.runninghub.cn/vip-rights/2</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002045.png" alt="image"></p><p>然后点击API控制台就可以获得APIKEY然后填写到本地APIKEY</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002046.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002047.png" alt="image"></p><p>3.保存工作流RH-PS生成式放大客户端</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002048.png" alt="image"></p><p>4.打开PS就出现你保存的工作流（PS和COMFYUI请看视频教程）<img src="https://xiao666.sbs/PicGo/IMG_000002049.png" alt="image"></p><p>要是操作有些不懂，可以看RH和COMFYUI联动视频课程连接：</p><p>RH云端和本地COMFYUI联动课程链接：<a href="https://pan.quark.cn/s/77f579d33e0f">https://pan.quark.cn/s/77f579d33e0f</a></p>]]></content>
     
@@ -395,39 +421,13 @@
   </entry>
   
   <entry>
-    <title>RH-FLUX-redux换脸工作流</title>
-    <link href="https://www.fomal.cc/posts/cd49cbb3.html"/>
-    <id>https://www.fomal.cc/posts/cd49cbb3.html</id>
-    <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.255Z</updated>
-    
-    <content type="html"><![CDATA[<p>目前最强的换脸工作流</p><p>RH-FLUX-redux换脸链接：<a href="https://pan\.quark\.cn/s/5453eb674a93">https://pan\.quark\.cn/s/5453eb674a93</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;目前最强的换脸工作流&lt;/p&gt;
-&lt;p&gt;RH-FLUX-redux换脸链接：&lt;a href=&quot;https://pan&#92;.quark&#92;.cn/s/5453eb674a93&quot;&gt;https://pan&#92;.quark&#92;.cn/s/5453eb674a93&lt;/a&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="知识星球" scheme="https://www.fomal.cc/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/"/>
-    
-    
-    <category term="AIGAME的技术分享" scheme="https://www.fomal.cc/tags/AIGAME%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>wan2.1 720p fusionX+NAG 所有功能开源的用这套就够了其他已成过去式</title>
     <link href="https://www.fomal.cc/posts/af359024.html"/>
     <id>https://www.fomal.cc/posts/af359024.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.323Z</updated>
+    <updated>2025-09-18T07:41:22.191Z</updated>
     
-    <content type="html"><![CDATA[<p>官方模型c站下载页：<a href="https://civitai.com/models/1651125?modelVersionId=1882322">https://civitai.com/models/1651125?modelVersionId=1882322</a></p><p>官方抱脸下载页：<a href="https://hf-mirror.com/QuantStack/Wan2.1_T2V_14B_FusionX_VACE/tree/main">https://hf-mirror.com/QuantStack/Wan2.1_T2V_14B_FusionX_VACE/tree/main</a></p><p><a href="https://hf-mirror.com/vrgamedevgirl84/Wan14BT2VFusioniX/tree/main">https://hf-mirror.com//vrgamedevgirl84/Wan14BT2VFusioniX/tree/main</a>  </p><h1 id="VACE-局部重绘视频-FusionX-NAG："><a href="#VACE-局部重绘视频-FusionX-NAG：" class="headerlink" title="VACE 局部重绘视频+FusionX+NAG："></a>VACE 局部重绘视频+FusionX+NAG：</h1><p><a href="https://www.runninghub.cn/post/1934530966226411521">https://www.runninghub.cn/post/1934968414744322049</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002050.png" alt="image"></p><h1 id="VACE首尾帧-FusionX-NAG"><a href="#VACE首尾帧-FusionX-NAG" class="headerlink" title="VACE首尾帧+FusionX+NAG"></a>VACE首尾帧+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934854834996584449">https://www.runninghub.cn/post/1934854834996584449</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002051.png" alt="image"></p><h1 id="VACE骨骼深度-FusionX-NAG"><a href="#VACE骨骼深度-FusionX-NAG" class="headerlink" title="VACE骨骼深度+FusionX+NAG"></a>VACE骨骼深度+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805604462731266">https://www.runninghub.cn/post/1934805604462731266</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002052.png" alt="image"></p><h1 id="VACE扩图-FusionX-NAG"><a href="#VACE扩图-FusionX-NAG" class="headerlink" title="VACE扩图+FusionX+NAG"></a>VACE扩图+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805333355208705">https://www.runninghub.cn/post/1934805333355208705</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002053.png" alt="image"></p><h1 id="phantom-FusionX-NAG图片合并或者产品展示视频"><a href="#phantom-FusionX-NAG图片合并或者产品展示视频" class="headerlink" title="phantom FusionX+NAG图片合并或者产品展示视频"></a>phantom FusionX+NAG图片合并或者产品展示视频</h1><p><a href="https://www.runninghub.cn/post/1934531622417178625">https://www.runninghub.cn/post/1934531622417178625</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002054.png" alt="image"></p><h1 id="wan2-1-720p图生视频fusionX-NAG"><a href="#wan2-1-720p图生视频fusionX-NAG" class="headerlink" title="wan2.1 720p图生视频fusionX+NAG"></a>wan2.1 720p图生视频fusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805333355208705">https://www.runninghub.cn/post/1934530966226411521</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002055.png" alt="image"></p>]]></content>
+    <content type="html"><![CDATA[<p>官方模型c站下载页：<a href="https://civitai.com/models/1651125?modelVersionId=1882322">https://civitai.com/models/1651125?modelVersionId=1882322</a></p><p>官方抱脸下载页：<a href="https://hf-mirror.com/QuantStack/Wan2.1_T2V_14B_FusionX_VACE/tree/main">https://hf-mirror.com/QuantStack/Wan2.1_T2V_14B_FusionX_VACE/tree/main</a></p><p><a href="https://hf-mirror.com/vrgamedevgirl84/Wan14BT2VFusioniX/tree/main">https://hf-mirror.com//vrgamedevgirl84/Wan14BT2VFusioniX/tree/main</a></p><h1>VACE 局部重绘视频+FusionX+NAG：</h1><p><a href="https://www.runninghub.cn/post/1934530966226411521">https://www.runninghub.cn/post/1934968414744322049</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002050.png" alt="image"></p><h1>VACE首尾帧+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934854834996584449">https://www.runninghub.cn/post/1934854834996584449</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002051.png" alt="image"></p><h1>VACE骨骼深度+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805604462731266">https://www.runninghub.cn/post/1934805604462731266</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002052.png" alt="image"></p><h1>VACE扩图+FusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805333355208705">https://www.runninghub.cn/post/1934805333355208705</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002053.png" alt="image"></p><h1>phantom FusionX+NAG图片合并或者产品展示视频</h1><p><a href="https://www.runninghub.cn/post/1934531622417178625">https://www.runninghub.cn/post/1934531622417178625</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002054.png" alt="image"></p><h1>wan2.1 720p图生视频fusionX+NAG</h1><p><a href="https://www.runninghub.cn/post/1934805333355208705">https://www.runninghub.cn/post/1934530966226411521</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002055.png" alt="image"></p>]]></content>
     
     
       
@@ -449,14 +449,15 @@
     <link href="https://www.fomal.cc/posts/44277a94.html"/>
     <id>https://www.fomal.cc/posts/44277a94.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.215Z</updated>
+    <updated>2025-09-18T07:41:22.195Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="nano-banana几百种玩法地址："><a href="#nano-banana几百种玩法地址：" class="headerlink" title="nano-banana几百种玩法地址："></a>nano-banana几百种玩法地址：</h1><p>:<a href="https://github.com/tanangular/awesome-nano-banana?tab=readme-ov-file">https://github.com/tanangular/awesome-nano-banana?tab=readme-ov-file</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001997.png" alt="image"></p><p>比较有意思的玩法：</p><p><a href="https://www\.google\.com/maps/">https://www\.google\.com/maps/</a></p><p>将图像转换为绘制在古老羊皮纸上的古代藏宝图。地图包含详细的元素，通向标记宝藏地点的大“X”的虚线路径、山脉、棕榈树和装饰性的罗盘玫瑰。整体风格让人联想到旧时的海盗冒险电影。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001998.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001999.png" alt="image"></p><p>一张黑白线描涂色插画，适合直接打印在标准尺寸（8.5x11英寸）的纸张上，无纸张边框。整体插画风格清新简洁，使用清晰流畅的黑色轮廓线条，无阴影、无灰阶、无颜色填充，背景纯白，便于涂色。</p><p>【同时为了方便不会涂色的用户，请在右下角用小图生成一个完整的彩色版本供参考】</p><p>适合人群：【6-9岁小朋友】</p><p>画面描述：</p><p>【一只独角兽在森林的草地上漫步，阳光明媚，蓝天白云】</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002000.png" alt="image"></p><p>请创作一套以 [参考图片中的角色] 为主角的Q版表情包，共9个，排列成3x3网格。</p><p>设计要求：</p><p>- 透明背景。</p><p>- 1:1正方形构图。</p><p>- 统一的Q版吉卜力卡通风格，色彩鲜艳。</p><p>- 每个表情的动作、神态、内容各不相同，需要体现“骚、贱、萌、抓狂”等多样情绪，例如：翻白眼、捶地狂笑、灵魂出窍、原地石化、撒钱、干饭状态、社交恐惧发作等。可融入打工人和网络热梗元素。</p><p>- 每个表情形象完整，无残缺。</p><p>- 每个表情均带有统一的白色描边，呈现贴纸效果。</p><p>- 画面中无多余、分离的元素。</p><p>- 严格禁止出现任何文字，或确保文字内容准确无误（优先选择无文字）。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002001.png" alt="image"></p><p>将图像制作成白天和等距视图[仅限建筑]</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002002.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002003.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002004.png" alt="image"></p><p>这张照片很无聊很平淡。增强它！增加对比度，提升色彩，改善光线使其更丰富，你可以裁剪和删除影响构图的细节</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002005.png" alt="image"></p><p>让这男人和女人角色使用动作姿势图进行战斗。添加适当的视觉背景和场景互动，</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002006.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002007.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002008.png" alt="image"></p><p>生成一个女孩cosplay这张插画的照片</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002009.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002010.png" alt="image"></p><p>生成一个女孩cosplay这张插画的照片，飘逸的服装动作姿势不能变</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002011.png" alt="image">为我生成人物的角色设定（Character Design）</p><p>比例设定（不同身高对比、头身比等）</p><p>三视图（正面、侧面、背面）</p><p>表情设定（Expression Sheet） → 就是你发的那种图</p><p>动作设定（Pose Sheet） → 各种常见姿势</p><p>服装设定（Costume Design）</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002012.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002013.png" alt="image"></p><p>选择中的人，让他们穿上的所有服装和配饰。在户外拍摄一系列写实的OOTD风格照片，使用自然光线，时尚的街头风格，清晰的全身镜头。保持图1中人物的身份和姿势，但以连贯时尚的方式展示图2中的完整服装和配饰</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002014.png" alt="image"></p><p>在白色背景上生成前、后、左、右、上、下视图。均匀分布。一致的主体。等距透视等效</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002015.png" alt="image"></p><p>Replace the figure in Image 1 with the pose and posture of the line drawing in Image 2.</p><p>将图像1人物换成图像2线稿的动作姿势，</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002016.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002017.png" alt="image"></p><p>为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。不要文字</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002018.png" alt="image"></p><p>图一人物按照图二的脸型设计为q版形象</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002019.png" alt="image"></p><p>nano-banana 使用光影人偶做打光参考效果很好！准确度很不错，用打光人偶作光影控制/参考，结合可以任意控制姿势，可以实现棚拍自由！</p><p>当然也可以参照其他照片的光影，不过距离真实打光效果还是差点意思。</p><p>光影人偶：<a href="https://anyposes.com/">https://anyposes.com/</a></p><p>图像1完全参考参考图像2光照贴图来改变灯光（这个介绍有点牛逼）</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002020.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002021.png" alt="image"></p><p>Take the image of the woman in [Input Photo]. Apply a creative split-style effect. Keep the lower half of her body (legs and boots) as the original photograph. Transform the upper half of her body (torso, arms, head) into a vibrant, 2D anime style with bold outlines and flat colors, similar to the anime ‘Cyberpunk: Edgerunners’. The transition between the two styles should be a clean, slightly curved line.</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002022.png" alt="image"></p><p>将图 1 中的人物改为与图 2 字符相似的全身姿势，生成的图片不要有字符，必要时可以用配饰辅助</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002023.png" alt="image"></p><p>Using the people from figure 1 and figure2 as the subject, and the pose from figure3 as the reference, generate a new, photorealistic image. The subject must perfectly replicate the reference pose. Crucially, maintain the subject’s identity, facial features, and clothing from her original photo.</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002024.png" alt="image"></p><p>提示词1：Help me convert this residential floor plan into an isometric photorealistic 3D rendering of the house. </p><p>提示词 2：Help me generate a realistic photo looking from the dining table towards the bathroom, which must comply with the house layout in the design plan, and appropriate decorations can be added.</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002025.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002026.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002027.png" alt="image"></p><p>是基于COMFYUI官方API工作流：</p><p>api_google_gemini_image单图双图多图合并工作流：<a href="https://pan\.quark\.cn/s/908d0bf8b8e1">https://pan\.quark\.cn/s/908d0bf8b8e1</a></p>]]></content>
+    <content type="html"><![CDATA[<h1>nano-banana几百种玩法地址：</h1><p>:<a href="https://github.com/tanangular/awesome-nano-banana?tab=readme-ov-file">https://github.com/tanangular/awesome-nano-banana?tab=readme-ov-file</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001997.png" alt="image"></p><p>比较有意思的玩法：</p><p><a href="https://www.google.com/maps/">https://www.google.com/maps/</a></p><p>将图像转换为绘制在古老羊皮纸上的古代藏宝图。地图包含详细的元素，通向标记宝藏地点的大“X”的虚线路径、山脉、棕榈树和装饰性的罗盘玫瑰。整体风格让人联想到旧时的海盗冒险电影。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000001998.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000001999.png" alt="image"></p><p>一张黑白线描涂色插画，适合直接打印在标准尺寸（8.5x11英寸）的纸张上，无纸张边框。整体插画风格清新简洁，使用清晰流畅的黑色轮廓线条，无阴影、无灰阶、无颜色填充，背景纯白，便于涂色。</p><p>【同时为了方便不会涂色的用户，请在右下角用小图生成一个完整的彩色版本供参考】</p><p>适合人群：【6-9岁小朋友】</p><p>画面描述：</p><p>【一只独角兽在森林的草地上漫步，阳光明媚，蓝天白云】</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002000.png" alt="image"></p><p>请创作一套以 [参考图片中的角色] 为主角的Q版表情包，共9个，排列成3x3网格。</p><p>设计要求：</p><p>- 透明背景。</p><p>- 1:1正方形构图。</p><p>- 统一的Q版吉卜力卡通风格，色彩鲜艳。</p><p>- 每个表情的动作、神态、内容各不相同，需要体现“骚、贱、萌、抓狂”等多样情绪，例如：翻白眼、捶地狂笑、灵魂出窍、原地石化、撒钱、干饭状态、社交恐惧发作等。可融入打工人和网络热梗元素。</p><p>- 每个表情形象完整，无残缺。</p><p>- 每个表情均带有统一的白色描边，呈现贴纸效果。</p><p>- 画面中无多余、分离的元素。</p><p>- 严格禁止出现任何文字，或确保文字内容准确无误（优先选择无文字）。</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002001.png" alt="image"></p><p>将图像制作成白天和等距视图[仅限建筑]</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002002.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002003.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002004.png" alt="image"></p><p>这张照片很无聊很平淡。增强它！增加对比度，提升色彩，改善光线使其更丰富，你可以裁剪和删除影响构图的细节</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002005.png" alt="image"></p><p>让这男人和女人角色使用动作姿势图进行战斗。添加适当的视觉背景和场景互动，</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002006.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002007.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002008.png" alt="image"></p><p>生成一个女孩cosplay这张插画的照片</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002009.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002010.png" alt="image"></p><p>生成一个女孩cosplay这张插画的照片，飘逸的服装动作姿势不能变</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002011.png" alt="image">为我生成人物的角色设定（Character Design）</p><p>比例设定（不同身高对比、头身比等）</p><p>三视图（正面、侧面、背面）</p><p>表情设定（Expression Sheet） → 就是你发的那种图</p><p>动作设定（Pose Sheet） → 各种常见姿势</p><p>服装设定（Costume Design）</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002012.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002013.png" alt="image"></p><p>选择中的人，让他们穿上的所有服装和配饰。在户外拍摄一系列写实的OOTD风格照片，使用自然光线，时尚的街头风格，清晰的全身镜头。保持图1中人物的身份和姿势，但以连贯时尚的方式展示图2中的完整服装和配饰</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002014.png" alt="image"></p><p>在白色背景上生成前、后、左、右、上、下视图。均匀分布。一致的主体。等距透视等效</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002015.png" alt="image"></p><p>Replace the figure in Image 1 with the pose and posture of the line drawing in Image 2.</p><p>将图像1人物换成图像2线稿的动作姿势，</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002016.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002017.png" alt="image"></p><p>为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。不要文字</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002018.png" alt="image"></p><p>图一人物按照图二的脸型设计为q版形象</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002019.png" alt="image"></p><p>nano-banana 使用光影人偶做打光参考效果很好！准确度很不错，用打光人偶作光影控制/参考，结合可以任意控制姿势，可以实现棚拍自由！</p><p>当然也可以参照其他照片的光影，不过距离真实打光效果还是差点意思。</p><p>光影人偶：<a href="https://anyposes.com/">https://anyposes.com/</a></p><p>图像1完全参考参考图像2光照贴图来改变灯光（这个介绍有点牛逼）</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002020.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002021.png" alt="image"></p><p>Take the image of the woman in [Input Photo]. Apply a creative split-style effect. Keep the lower half of her body (legs and boots) as the original photograph. Transform the upper half of her body (torso, arms, head) into a vibrant, 2D anime style with bold outlines and flat colors, similar to the anime ‘Cyberpunk: Edgerunners’. The transition between the two styles should be a clean, slightly curved line.</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002022.png" alt="image"></p><p>将图 1 中的人物改为与图 2 字符相似的全身姿势，生成的图片不要有字符，必要时可以用配饰辅助</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002023.png" alt="image"></p><p>Using the people from figure 1 and figure2 as the subject, and the pose from figure3 as the reference, generate a new, photorealistic image. The subject must perfectly replicate the reference pose. Crucially, maintain the subject’s identity, facial features, and clothing from her original photo.</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002024.png" alt="image"></p><p>提示词1：Help me convert this residential floor plan into an isometric photorealistic 3D rendering of the house.</p><p>提示词 2：Help me generate a realistic photo looking from the dining table towards the bathroom, which must comply with the house layout in the design plan, and appropriate decorations can be added.</p><p><img src="https://xiao666.sbs/PicGo/IMG_000002025.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002026.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002027.png" alt="image"></p><p>是基于COMFYUI官方API工作流：</p><p>api_google_gemini_image单图双图多图合并工作流：<a href="https://pan.quark.cn/s/908d0bf8b8e1">https://pan.quark.cn/s/908d0bf8b8e1</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;nano-banana几百种玩法地址：&quot;&gt;&lt;a href=&quot;#nano-banana几百种玩法地址：&quot; class=&quot;headerlink&quot; title=&quot;nano-banana几百种玩法地址：&quot;&gt;&lt;/a&gt;nano-banana几百种玩法地址：&lt;/h1&gt;&lt;p&gt;:&lt;</summary>
+    <summary type="html">&lt;h1&gt;nano-banana几百种玩法地址：&lt;/h1&gt;
+&lt;p&gt;:&lt;a href=&quot;https://github.com/tanangular/awesome-nano-banana?tab=readme-ov-file&quot;&gt;https://github.com/tanangula</summary>
       
     
     
@@ -473,9 +474,9 @@
     <link href="https://www.fomal.cc/posts/4151e17f.html"/>
     <id>https://www.fomal.cc/posts/4151e17f.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.339Z</updated>
+    <updated>2025-09-18T07:41:22.199Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>强推！！！！！免费！！！速度极快！！！！</strong></p><p>官方安装教程：<a href="https://github.com/Lingyuzhou111/Comfyui_Free_Jimeng">https://github.com/Lingyuzhou111/Comfyui_Free_Jimeng</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002056.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002057.png" alt="image"></p><p>即梦4工作流：<a href="https://pan.quark.cn/s/14170946043d">https://pan.quark.cn/s/14170946043d</a><img src="https://xiao666.sbs/PicGo/IMG_000002058.png" alt="image"></p><p>当然也有收费的这个是BANBNA的API调用有需求的可以试试</p><p><a href="https://github.com/xuchenxu168/ComfyUI_LLM_Banana?tab=readme-ov-file">https://github.com/xuchenxu168/ComfyUI_LLM_</a> </p><p><img src="https://xiao666.sbs/PicGo/IMG_000002059.png" alt="image"></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>强推！！！！！免费！！！速度极快！！！！</strong></p><p>官方安装教程：<a href="https://github.com/Lingyuzhou111/Comfyui_Free_Jimeng">https://github.com/Lingyuzhou111/Comfyui_Free_Jimeng</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002056.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002057.png" alt="image"></p><p>即梦4工作流：<a href="https://pan.quark.cn/s/14170946043d">https://pan.quark.cn/s/14170946043d</a><img src="https://xiao666.sbs/PicGo/IMG_000002058.png" alt="image"></p><p>当然也有收费的这个是BANBNA的API调用有需求的可以试试</p><p><a href="https://github.com/xuchenxu168/ComfyUI_LLM_Banana?tab=readme-ov-file">https://github.com/xuchenxu168/ComfyUI_LLM_</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002059.png" alt="image"></p>]]></content>
     
     
       
@@ -498,7 +499,7 @@
     <link href="https://www.fomal.cc/posts/28495403.html"/>
     <id>https://www.fomal.cc/posts/28495403.html</id>
     <published>2025-09-18T07:26:57.000Z</published>
-    <updated>2025-09-18T07:32:02.350Z</updated>
+    <updated>2025-09-18T07:41:22.203Z</updated>
     
     <content type="html"><![CDATA[<p>千问加速LORA更新到2.0效果提升不少</p><p>官网：<a href="https://huggingface.co/lightx2v/Qwen-Image-Lightning/tree/main">https://huggingface.co/lightx2v/Qwen-Image-Lightning/tree/main</a></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002060.png" alt="image"></p><p><img src="https://xiao666.sbs/PicGo/IMG_000002061.png" alt="image"></p>]]></content>
     
